@@ -12,15 +12,15 @@ Here are the 7 daily steps to complete for the next 75 continuous days to comple
 
 3️⃣ **Hit the Books**: 
 
-    Part 1: Complete at least one module in your education course. I am using the [Zero to Full Stack Hero](https://www.papareact.com/course) course. But this can be any course you're taking, such as a college course or coding bootcamp. If you're not taking a course, you can choose from a variety of online resources like YouTube, Udemy, Coursera, or even books.
+Part 1: Complete at least one module in your education course. I am using the [Zero to Full Stack Hero](https://www.papareact.com/course) course. But this can be any course you're taking, such as a college course or coding bootcamp. If you're not taking a course, you can choose from a variety of online resources like YouTube, Udemy, Coursera, or even books.
 
-    Part 2: Dedicate 30 minutes to learning something new outside of the course you are taking. This can be a YouTube video, article / blog post, book, podcast, or newsletter.
+Part 2: Dedicate 30 minutes to learning something new outside of the course you are taking. This can be a YouTube video, article / blog post, book, podcast, or newsletter.
 
 4️⃣ **Time to Code**: 
 
-    Part 1: Complete at least one simple coding exercise this can come from resource including an exercise that come up with your self, or a coding challenge you find online.
+Part 1: Complete at least one simple coding exercise this can come from resource including an exercise that come up with your self, or a coding challenge you find online.
 
-    Part 2: Write some code in a real project. This can be a pet project you've been working, a website you're building, or a portfolio project you're working on.
+Part 2: Write some code in a real project. This can be a pet project you've been working, a website you're building, or a portfolio project you're working on.
 
 5️⃣ **Daily Reset**: Take a break and do some sort of relaxation exercise like meditation, exercise, go for a walk or a jog or even take a quick nap; do something to rejuvenate yourself and to keep your body and mind fresh. Have a healthy lunch and drink some water.
 
@@ -30,9 +30,9 @@ Here are the 7 daily steps to complete for the next 75 continuous days to comple
 
 8️⃣ **Track your Progress**: 
 
-    Part 1: Clone this repo and add a new folder & markdown file for each day. In each days folder (you can use the markdown file for the day) add your TODO list and check off each item as they are completed. Add your daily coding exercise to this folder. Once your daily routine is complete, commit and push your changes to your GitHub repository.
+Part 1: Clone this repo and add a new folder & markdown file for each day. In each days folder (you can use the markdown file for the day) add your TODO list and check off each item as they are completed. Add your daily coding exercise to this folder. Once your daily routine is complete, commit and push your changes to your GitHub repository.
 
-    Part 2: You can post your progress in our discord server [JS Help Desk](https://discord.gg/aDumcW6ESB) in the dev100 channel.This challenge is based off of the dev75 challenge from university of code. You can track your progress on the [Dev75 Category](https://www.skool.com/universityofcode?c=37292acda99f4c61b906b8840a85d00c&s=newest-cm&fl=) in University of Code. Post your progeress in either group in the following format:
+Part 2: You can post your progress in our discord server [JS Help Desk](https://discord.gg/aDumcW6ESB) in the dev100 channel.This challenge is based off of the dev75 challenge from university of code. You can track your progress on the [Dev75 Category](https://www.skool.com/universityofcode?c=37292acda99f4c61b906b8840a85d00c&s=newest-cm&fl=) in University of Code. Post your progeress in either group in the following format:
 
 
 
