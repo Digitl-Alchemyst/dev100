@@ -4,11 +4,32 @@ Staying consistent and motivated can be a real challenge for developers. That's 
 
 We know how hectic life can get, so we've structured this challenge with 7 daily tasks that are simple yet effective. These tasks will not only enhance your productivity but also help you learn new things and stay engaged with the coding community. By completing these daily steps, you'll elevate your coding skills and become an even better developer! 💪
 
-Here are the 7 daily steps to complete for the next 75 continuous days to complete the challenge 👇
+## The Challenge:
 
-1️⃣ **Start Your Day Right**: Note your productive morning. This could include making your bed, going to the gym, or getting ready for the day/work. Be sure to have a healthy breakfast and get your day started right.🌞 Answer any emails in your inbox and clear it of junk for the day. ( Make sure to keep up with your inbox through out the day )
+### Set Your Goals:
 
-2️⃣ **Organize Your Tasks**: Write down your main tasks for the day. Having a clear to-do list will keep you focused and productive throughout the day. Delagate dead-end task to a later day in the week. (The business you need to interact with is closed for the day, or you're waiting on a response from a client)
+Before diving into the challenge, it's essential to set clear goals for yourself. What do you want to achieve? What skills do you want to develop? What projects do you want to work on? Setting goals will help you stay focused and motivated throughout the challenge.
+
+#### End of Challenge Goals
+- [ ] Secure a job by the end of 75 days
+- [ ] Launch Speak Easy by the end of 75 days
+- [ ] Have at least 100 users on DocuBot by the end of 75 days
+- [ ] Prepare a pitch and basic demo app for the bus route app
+- [ ] Begin community development of the job board app
+- [ ] Quit Smoking by the end of 75 days
+- [ ] Improve diet and exercise by the end of 75 days
+
+### Daily Tasks:
+
+Here are the 8 daily task to complete for the next 100 (Dont skip weekends.) continuous days to complete the challenge 👇
+
+1️⃣ **Start Your Day Right**: 
+
+Note your productive morning. This could include making your bed, going to the gym, or getting ready for the day/work. Be sure to have a healthy breakfast and get your day started right.🌞 Answer any emails in your inbox and clear it of junk for the day. ( Make sure to keep up with your inbox through out the day )
+
+2️⃣ **Organize Your Tasks**: 
+
+Write down your main tasks for the day. Having a clear to-do list will keep you focused and productive throughout the day. Delagate dead-end task to a later day in the week. (The business you need to interact with is closed for the day, or you're waiting on a response from a client)
 
 3️⃣ **Hit the Books**: 
 
@@ -22,11 +43,17 @@ Part 1: Complete at least one simple coding exercise this can come from resource
 
 Part 2: Write some code in a real project. This can be a pet project you've been working, a website you're building, or a portfolio project you're working on.
 
-5️⃣ **Daily Reset**: Take a break and do some sort of relaxation exercise like meditation, exercise, go for a walk or a jog or even take a quick nap; do something to rejuvenate yourself and to keep your body and mind fresh. Have a healthy lunch and drink some water.
+5️⃣ **Daily Reset**: 
 
-6️⃣ **Productive Afternoon**: Keep the day rolling with a productive afternoon. This could include working on a project, catching up on house chores or spending time with family or friends. You should make sure you have cleared your to-do list and start to form a clear plan for the next day. Check your physical mail and read and act on any any important mail.
+Take a break and do some sort of relaxation exercise like meditation, exercise, go for a walk or a jog or even take a quick nap; do something to rejuvenate yourself and to keep your body and mind fresh. Have a healthy lunch and drink some water.
 
-7️⃣ **Support the Community**: This could be in your real life, in any community, in the University of Code, or in the [JS Help Desk Discord](https://discord.gg/aDumcW6ESB). Helping others is a great way to reinforce your knowledge and boost your confidence! It also helps you build a network of like-minded individuals.
+6️⃣ **Productive Afternoon**: 
+
+Keep the day rolling with a productive afternoon. This could include working on a project, catching up on house chores or spending time with family or friends. You should make sure you have cleared your to-do list and start to form a clear plan for the next day. Check your physical mail and read and act on any any important mail.
+
+7️⃣ **Support the Community**: 
+
+This could be in your real life, in any community, in the University of Code, or in the [JS Help Desk Discord](https://discord.gg/aDumcW6ESB). Helping others is a great way to reinforce your knowledge and boost your confidence! It also helps you build a network of like-minded individuals.
 
 8️⃣ **Track your Progress**: 
 
@@ -47,30 +74,22 @@ Today, I accomplished the following:
 4. **I wrote some code today.**: Share your daily coding excercise and what you learned from it. You can include your code in the post or link to it, to get feedback from the community.
 5. **Daily Reset**: What did you to relax and reset for the day? What did you eat for lunch?
 6. **I had a productive afternoon.**: Describe your afternoon, and how you spent it.
-6. **Support the Community**: How and who did you help
-7. **Link to previous day's post**: (If you posted Day 5 today, then link your Day 4 post by going to your post, clicking the top right corner, and selecting Copy Link)
+7. **Support the Community**: How and who did you help
+8. **Track your Progress**: Be sure to commit your progress to your github repo at the end of the day, and share a link to the repo in the post.
 
-1️⃣ Share your DAILY progress in the University of Code - Dev75 Category using the specified format mentioned above.
+1️⃣ Share your DAILY progress in the [JS Help Desk Discord](https://discord.gg/aDumcW6ESB) Dev100 Channel or University of Code - Dev75 Category using the specified format mentioned above.
 
-2️⃣ We've provided you with a Notion template to help keep track of your Dev75 progress. You can click the Duplicate option when you open the Notion template to make it your own! 👉 [Notion Template](https://links.papareact.com/50j)
+2️⃣ We're using a Notion template provided by Papa React to help keep track of your Dev100 progress. You can click the Duplicate option when you open the Notion template to make it your own! 👉 [Notion Template](https://links.papareact.com/50j) (official dev 100 template coming soon)
 
-3️⃣ Once you have completed the Dev75 Coding Challenge, post your Dev75 Coding Challenge Notion template in the University of Code - Dev75 Category so members can witness your glorious win! 🏆
-
-### End of Challenge Goals
-- [ ] Secure a job by the end of 75 days
-- [ ] Launch Speak Easy by the end of 75 days
-- [ ] Have at least 100 users on DocuBot by the end of 75 days
-- [ ] Prepare a pitch and basic demo app for the bus route app
-- [ ] Begin community development of the job board app
-- [ ] Quit Smoking by the end of 75 days
-- [ ] Improve diet and exercise by the end of 75 days
+3️⃣ Once you have completed the Dev100 Coding Challenge, post your Notion document in the JS Help Desk - Dev100 Channel so members can witness your glorious transformation! 🏆
 
 ### Template
 Today, I accomplished the following:
-1. **Productive morning**: 
-2. **Sort my To-Dos**: 
-3. **30 mins of learning**: 
-4. **Time to Code**: 
+1. **I had a productive morning.**: 
+2. **To-Dos & Dids.**: 
+3. **I learned something today.**: 
+4. **I wrote some code today.**: 
 5. **Daily Reset**: 
+6. **I had a productive afternoon.**:
 6. **Support the Community**: 
-7. **Link to previous day's post**:
+7. **Track your Progress**:
