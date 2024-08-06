@@ -57,7 +57,10 @@
 6. **Support the Community**:
 
     - [Responsive Image Grid](https://www.skool.com/universityofcode/responsive-image-grid?p=0c7333e3)
+
     - [Vercel 10 Second Function Timeout](https://www.skool.com/universityofcode/vercel-10-second-function-time-out-please-read?p=106dca26)
+
     - [Post-504 Application Error](https://www.skool.com/universityofcode/post-504-application-error-a-client-side-exception-has-occurred)
+
     - [How to Limit File Size in Uploader](https://www.skool.com/universityofcode/how-to-limit-file-size-in-uploader) Was already solved offered my solution now that I was able to have time to code it.
 
