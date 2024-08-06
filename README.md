@@ -1,6 +1,6 @@
 # Welcome to the Dev100 Coding Lifestyle Challenge! 🙌
 
-Staying consistent and motivated can be a real challenge for developers. That's why I'm introducing the Dev Lifestyle Transformation Challenge – a 100-day adventure designed to help you, change your habits, sharpen your coding skills and keep you on track with your goals! 🚀
+Staying consistent and motivated can be a real challenge for developers. That's why I'm introducing the Dev Lifestyle Transformation Challenge. A 100-day adventure designed to help you, change your habits, sharpen your coding skills and keep you on track with your goals! 🚀
 
 We know how hectic life can get, so we've structured this challenge with 7 daily tasks that are simple yet effective. These tasks will not only enhance your productivity but also help you learn new things and stay engaged with the coding community. By completing these daily steps, you'll elevate your coding skills and become an even better developer! 💪
 
