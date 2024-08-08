@@ -21,7 +21,9 @@
 ### 3. **I learned something today.**:
 
     - **Zero to Full Stack Hero**: An Introduction to Divs, Classes & IDs, Span & Inline, Input & Form Handling
+
     - [React js developer interview coding Round](https://www.youtube.com/watch?v=ZRSetk_Fsu0)
+
     - [The Importance of Specialization in Coding](https://www.youtube.com/watch?v=ImSjJwzqAss)  
 
 ### 4. **I wrote some code today.**:
