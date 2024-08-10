@@ -63,7 +63,7 @@
 
 ### 8. **Track your Progress**:
 
-    - [Day-2](https://www.skool.com/universityofcode/dev-100-day-3)
+    - [Day-3](https://www.skool.com/universityofcode/dev-100-day-3)
 
     - [Repo](https://github.com/Digitl-Alchemyst/dev100/blob/main/Day-3/day3.md)
 
