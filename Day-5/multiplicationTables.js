@@ -1,7 +1,7 @@
 // Parameters
 // Enert the number to multiply by and the number to multiply to. Enter null to generate all multiplication tables from 1 to 10.
-const numberToMultiplyBy = 8;
-const numberToMultiplyTo = 12;
+const numberToMultiplyBy = null;
+const numberToMultiplyTo = null;
 
 // Function to create a multiplication table
 function createMultiplicationTable(numberToMultiplyBy, numberToMultiplyTo) {
