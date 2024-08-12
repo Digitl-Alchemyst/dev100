@@ -31,6 +31,8 @@
 
     - [The proper way to secure your databases](https://www.youtube.com/watch?v=rt4W45aj2Lo)
 
+    - [Sync Clerk Data to Your Database Using Webhooks](https://www.youtube.com/watch?v=UTjwyDuVjRM)
+
 ### 4. 🖥️ **I wrote some code today.**:
 
     - 🏋️‍♂️ Warm-up Exercise: Make up exercise from yesterday, a few basic geometery calculations, 2 Other challenges findest largest square and find longest subsequence square
