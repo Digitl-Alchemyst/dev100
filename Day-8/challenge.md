@@ -1,6 +1,6 @@
 # Coding Challenge: Variable Swap
 
-## Problem Statement
+## Problem
 
 Write a JavaScript function that swaps the values of two variables without using a temporary variable.
 
