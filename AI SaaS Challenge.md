@@ -136,13 +136,13 @@ By the end of this challenge, you’ll have a fully functional AI SaaS app with 
 
 ## 🥇 1st Place: 
 ### **Aydin Joshi** - [Croduct](https://croduct.com/)
-
+- [aydin.vercel.app](https://aydin.vercel.app/)
 ## 🥈 2nd Place: 
 ### **Steven Watkins** - [DocuBot](https://docubot.app/)
-
+- [alchemyst.digital](https://alchemyst.digital/)
 ## 🥉 3rd Place: 
 ### **Dev Ben** - [?](https://?)
-
+- [devben.vercel.app](https://devben.vercel.app/)
 
 ### 🏆 Runner Ups:
 #### **Bonus Winners:**

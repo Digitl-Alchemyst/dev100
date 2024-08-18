@@ -36,7 +36,7 @@
 
     - 🏋️‍♂️ Warm-up Exercise: Create a function that can take any kind of value—whether it's a number, a string of text, a boolean value (`true` or `false`), or even more complex types like objects or arrays—and determine what type it is. The function should then return that type as a string of text.
 
-    - 🦺 Project: Some Docubot Firebase Stuff, Worked on 100 daily coding challenge project.
+    - 🦺 Project: Some Docubot Firebase Stuff, Worked on 100 daily coding challenge project. Made overview md doc for the AI SaaS challenge
 
 ### 5. 🏃 **Daily Reset**:
 
