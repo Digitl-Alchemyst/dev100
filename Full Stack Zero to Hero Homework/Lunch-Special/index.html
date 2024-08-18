@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Lunch Special</title>
+  </head>
+  <body>
+    <main>
+      <h1>Lunch Special</h1>
+      <h3>Mon-Fri 11am-3pm</h3>
+      <h2>$9.95 (+ tax)</h2>
+      <h4>Sandwich / Wrap</h4>
+      <dl class="menuBox">
+        <dt>Mon:</dt>
+        <dd>Chicken Salad Sandwich / Carrot Ginger Hummus Wrap</dd>
+        <dt>Tues:</dt>
+        <dd>Greek Salad Sandwich / Toto Wrap</dd>
+        <dt>Wed:</dt>
+        <dd>Roasted Turkey Sandwich / Red Pepper Hummus Wrap</dd>
+        <dt>Thurs:</dt>
+        <dd>Egg Salad Sandwich / Veggie Wrap</dd>
+        <dt>Fri:</dt>
+        <dd>Tuna Salad Sandwich/ Dado Wrap</dd>
+      </dl>
+      <form action="">
+        <div class="customer-info padding box">
+          <div>
+            <label for="name">Name:</label>
+            <input type="text" id="name" name="name" required />
+          </div>
+          <div class="left">
+            <input type="radio" id="here" name="location" value="here" />
+            <label for="here">Dine-In</label>
+            <input type="radio" id="takeout" name="location" value="takeout" />
+            <label for="takeout">Takeout</label>
+          </div>
+        </div>
+        <div class="flex-row">
+          <div>
+            <input type="radio" id="sandwich" name="main" value="sandwich" />
+            <label for="sandwich">Sandwich</label>
+          </div>
+          <div>
+            <input type="radio" id="wrap" name="main" value="wrap" />
+            <label for="wrap">Wrap</label>
+          </div>
+        </div>
+        <div>
+          <input
+            type="checkbox"
+            id="gluten-free"
+            name="gluten-free"
+            value="gluten-free"
+          />
+          <label for="gluten-free">Gluten Free Bread +.75¢</label>
+        </div>
+        <div class="flex-row">
+          <label for="snack">Snack:</label>
+
+          <div>
+            <input type="radio" id="apple" name="snack" value="apple" />
+            <label for="apple">Apple</label>
+            <input type="radio" id="banana" name="snack" value="banana" />
+            <label for="banana">Banana</label>
+            <input type="radio" id="chips" name="snack" value="chips" />
+            <label for="chips">Chips</label>
+          </div>
+        </div>
+        <div class="flex-row center">
+          <label for="drinks">Drinks:</label>
+          <select name="drinks" id="drinks">
+            <option value="" disabled>Black Tea</option>
+            <option value="hot-black">
+              &nbsp;&nbsp;&nbsp;Hot Black Tea - Keemun
+            </option>
+            <option value="hot-black-decaf">
+              &nbsp;&nbsp;&nbsp;Hot Black Tea - Decaf Keemun
+            </option>
+            <option value="iced-black">
+              &nbsp;&nbsp;&nbsp;Iced Black Tea - Keemun
+            </option>
+            <option value="iced-black-decaf">
+              &nbsp;&nbsp;&nbsp;Iced Black Tea - Decaf Keemun
+            </option>
+
+            <option value="" disabled>Green Tea</option>
+            <option value="hot-green">
+              &nbsp;&nbsp;&nbsp;Hot Green Tea - Sencha
+            </option>
+            <option value="hot-green-decaf">
+              &nbsp;&nbsp;&nbsp;Hot Green Tea - Decaf
+            </option>
+            <option value="iced-green">
+              &nbsp;&nbsp;&nbsp;Iced Green Tea - Sencha
+            </option>
+            <option value="iced-green-decaf">
+              &nbsp;&nbsp;&nbsp;Iced Green Tea - Decaf
+            </option>
+
+            <option value="" disabled>Coffee Tea</option>
+            <option value="hot-coffee">
+              &nbsp;&nbsp;&nbsp;Hot Coffee
+            </option>
+            <option value="hot-coffee-decaf">
+              &nbsp;&nbsp;&nbsp;Hot Coffee - Decaf
+            </option>
+            <option value="iced-coffee">
+              &nbsp;&nbsp;&nbsp;Iced Coffee
+            </option>
+            <option value="iced-coffee-decaf">
+              &nbsp;&nbsp;&nbsp;Iced Coffee - Decaf
+            </option>
+
+            <option value="" disabled>Bubble Tea +1.50¢ extra</option>
+            <option value="tea">&nbsp;&nbsp;&nbsp;Bubble Tea</option>
+          </select>
+        </div>
+        <div>
+          <input type="checkbox" id="large" name="large" value="large" />
+          <label for="large">Large Drink +.75¢</label>
+        </div>
+              <div class="btnBox">
+        <input type="submit" value="Submit Order" class="btnSubmit" />
+        <input type="reset" value="Reset" class="btnReset" />
+      </div>
+      </form>
+    </main>
+  </body>
+</html>

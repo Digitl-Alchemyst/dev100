@@ -1,0 +1,153 @@
+main {
+  background-color: #f2f2f2;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: start;
+  height: 100vh;
+}
+
+h1 {
+  color: #c11e1e;
+  font-size: 64px;
+  font-weight: bold;
+  text-decoration: underline;
+  margin: 0px;
+}
+
+h2 {
+  color: #9d0707;
+  font-size: 48px;
+  margin: 0px;
+}
+
+h3 {
+  color: #333;
+  font-size: 36px;
+  font-weight: lighter;
+  margin: none;
+}
+
+h4 {
+  color: #646464;
+  font-size: 30px;
+  margin: 10px;
+}
+
+dl {
+  display: grid;
+  grid-gap: 4px 16px;
+  grid-template-columns: max-content;
+}
+dt {
+  font-weight: bold;
+  border-right: 1px solid #ccc;
+  padding: 0 8px 0 0;
+}
+dd {
+  margin: 0;
+  grid-column-start: 2;
+  text-align: start;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 20px;
+  gap: 10px;
+}
+
+select {
+  padding: 5px;
+  font-size: 16px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  width: 70%;
+  margin-left: 10px;
+}
+
+option {
+  padding: 10px;
+  font-size: 16px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  width: 100%;
+}
+
+.flex-row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.customer-info {
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  margin-top: 20px;
+  gap: 10px;
+}
+
+.padding {
+  padding: 5px;
+}
+
+.box {
+  border: 1px solid #ccc;
+  padding: 25px;
+  margin-bottom: 10px;
+  padding-left: 35px;
+  padding-right: 35px;
+  background-color: #f9f9f9;
+  border-radius: 5px;
+}
+
+.menuBox {
+  border: 1px solid #8e8e8e;
+  padding: 25px;
+  margin-bottom: 10px;
+  padding-left: 35px;
+  padding-right: 35px;
+  background-color: #f9f9f9;
+  border-radius: 15px;
+}
+
+.btnReset {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 15px;
+  padding-right: 15px;
+  background-color: rgb(231, 53, 53);
+  border: 1px solid rgb(103, 8, 8);
+  border-radius: 3px;
+  color: rgb(212, 212, 212);
+}
+
+.btnSubmit {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 15px;
+  padding-right: 15px;
+  background-color: rgb(211, 237, 187);
+  border: 1px solid rgb(56, 174, 54);
+  border-radius: 3px;
+  color: rgb(69, 69, 69);
+}
+
+.btnBox {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 20px;
+  gap: 25px;
+}
+
+.center {
+  justify-content: center;
+  align-items: center;
+}
