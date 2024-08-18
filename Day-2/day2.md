@@ -73,4 +73,7 @@
 
     - [Day 1 Post](https://www.skool.com/universityofcode/day-1-of-dev75-coming-out-hard)
 
+    - 📦️ [Repo](https://github.com/Digitl-Alchemyst/dev100/blob/main/Day-1/day1.md)
+
+    - 📄 [Notion](https://liberating-galley-48d.notion.site/Dev100-Coding-Lifestyle-Challenge-a85ec9fba3ce41f3b29d581a1a85d92b?pvs=4)
 

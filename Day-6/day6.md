@@ -49,6 +49,6 @@
 
     - 🏫 [Day-5](https://www.skool.com/universityofcode/dev-100-day-5)
 
-    - 📦️ [Repo](https://github.com/Digitl-Alchemyst/dev100/blob/main/Day-3/day3.md)
+    - 📦️ [Repo](https://github.com/Digitl-Alchemyst/dev100/blob/main/Day-5/day5.md)
 
     - 📄 [Notion](https://liberating-galley-48d.notion.site/Dev100-Coding-Lifestyle-Challenge-a85ec9fba3ce41f3b29d581a1a85d92b?pvs=4)

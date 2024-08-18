@@ -1,0 +1,71 @@
+div {
+  padding: 5px;
+  margin: 5px;
+}
+
+form {
+  padding: 5px;
+  margin: 5px;
+}
+
+label {
+  padding: 5px;
+  margin: 5px;
+  text-decoration: underline;
+  text-underline-offset: 2;
+  text-decoration-color: #4d4d4d;
+  font-weight: bold;
+}
+
+input {
+padding: 5px;
+}
+
+select {
+  padding: 5px;
+  margin: 5px;
+}
+
+textarea {
+  padding: 5px;
+  margin-left: 15px;
+}
+
+.flex {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: start;
+}
+
+.flex-row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: start;
+  margin-left: 5px;
+}
+
+.move-right {
+  margin-left: 10px;
+}
+
+.btnReset {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 15px;
+  padding-right: 15px;
+  background-color: rgb(231, 53, 53);
+  border: 1px solid rgb(103, 8, 8);
+  border-radius: 3px;
+}
+
+.btnSubmit {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 15px;
+  padding-right: 15px;
+  background-color: rgb(211, 237, 187);
+  border: 1px solid rgb(56, 174, 54);
+  border-radius: 3px;
+}
