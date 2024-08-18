@@ -1,4 +1,4 @@
-# 🌟 AI SaaS Challenge Schedule 🌟
+# 🌟 Full Stack Developer AI SaaS Challenge 🌟
 
 ## 🚀 Challenge Description
 
@@ -10,9 +10,14 @@ Throughout the challenge, you’ll tackle essential aspects of SaaS development,
 
 By the end of this challenge, you’ll have a fully functional AI SaaS app with a polished design, a robust backend, and the knowledge to elevate your project to the next level. Plus, you’ll join a vibrant community of developers, all striving to create something extraordinary. 🚀
 
+## Created By:
+- **Sonny Sangha AKA Papa React**
+- **Sponsor:**: [Clerk](https://clerk.com/)
+- **Hosted By:**: [University of Code](https://www.skool.com/universityofcode)
+
 
 🗓️ **Schedule**  
-**July 23rd (Tuesday) until July 27th (Saturday)**
+**July 23rd until July 27th**
 
 ## 📅 Daily Agenda
 
@@ -61,7 +66,7 @@ By the end of this challenge, you’ll have a fully functional AI SaaS app with 
 
 🚀 **3,000 Portfolio Submissions** 🚀
 
-#### **Featured Portfolios:**
+#### 🚀 **Featured Portfolios:**
 
 - **Dev Ben**: [devben.vercel.app](https://devben.vercel.app/)
 - **Scott Martin**: [scottmartinwebdevelopment.com](https://scottmartinwebdevelopment.com/)
@@ -81,7 +86,7 @@ By the end of this challenge, you’ll have a fully functional AI SaaS app with 
 
 ✨ **1,900+ Submissions** ✨
 
-#### **Community Super Stars:**
+#### 🌟 **Community Support Super Stars:**
 
 - **Aydin Joshi**
 - **Steven Watkins**
@@ -91,23 +96,67 @@ By the end of this challenge, you’ll have a fully functional AI SaaS app with 
 - **Ciaran McGovern**
 - **Deepanshu Goel**
 
-#### **Featured Builds:**
-
-- **Steven Watkins: DocuBot** - [docubot.app](https://docubot.app/)
-- **Nithin Reddy: pdf.io** - [pdf-io.vercel.app](https://pdf-io-git-master-nithin-reddys-projects-nercel.app/)
-- **Lino Mayer: Chat with PDF** - [chat-with-pdf.vercel.app](https://chat-with-pdf.vercel.app/)
-- **Scott Martin: Chat with PDF** - [chat-with-pdf-challenge.vercel.app](https://chat-with-pdf-challenge-zeta.vercel.app/)
-- **Yattish Ramhorry: Chat PDF** - [saas-chat-pdf.vercel.app](https://saas-chat-pdf.vercel.app/)
-- **Geoffrey Nduati: PDFY** - [pdfy.vercel.app](https://pdfy-delta.vercel.app/)
-- **Aydin Joshi: Croduct PDF** - [croduct.com](https://croduct.com/)
-- **Ivarr Reyna: PDF Chatbot** - [pdf-chatbot.vercel.app](https://pdf-chatbot-seven.vercel.app/)
-- **Santino Majur: Chat with PDF** - [pdf-uploader-with-chat.vercel.app](https://pdf-uploader-with-chat.vercel.app/)
-- **Ratnakar Mishra: Chat with PDF** - [ai-saas-challenge.vercel.app](https://ai-saas-challenge.vercel.app/)
-- **Hein Htoo: Paper Pal** - [heinhtoo-chat-with-pdf-challenge.vercel.app](https://heinhtoo-chat-with-pdf-challenge.vercel.app/)
-- **Faizan Muhammad: Chat with PDF** - [chat-with-pdf-bice.vercel.app](https://chat-with-pdf-bice-rho.vercel.app/)
-- **Jean-Marc Koffi: Read Me PDF** - [chat-with-pdf-jm.vercel.app](https://chat-with-pdf-jm.vercel.app/)
+#### 🚀 **Featured Builds:**
+- **Steven Watkins:** - [DocuBot](https://docubot.app/)
+- **Nithin Reddy:** - [pdf.io](https://pdf-io-git-master-nithin-reddys-projects-nercel.app/)
+- **Lino Mayer:** - [Chat with PDF](https://chat-with-pdf.vercel.app/)
+- **Scott Martin:** - [Chat with PDF](https://chat-with-pdf-challenge-zeta.vercel.app/)
+- **Yattish Ramhorry:** - [Chat PDF](https://saas-chat-pdf.vercel.app/)
+- **Geoffrey Nduati:** - [PDFY](https://pdfy-delta.vercel.app/)
+- **Aydin Joshi:** - [Croduct PDF](https://croduct.com/)
+- **Ivarr Reyna:** - [PDF Chatbot](https://pdf-chatbot-seven.vercel.app/)
+- **Santino Majur:** - [Chat with PDF](https://pdf-uploader-with-chat.vercel.app/)
+- **Ratnakar Mishra:** - [Chat with PDF](https://ai-saas-challenge.vercel.app/)
+- **Hein Htoo:** - [Paper Pal](https://heinhtoo-chat-with-pdf-challenge.vercel.app/)
+- **Faizan Muhammad:** - [Chat with PDF](https://chat-with-pdf-bice-rho.vercel.app/)
+- **Jean-Marc Koffi:** - [Read Me PDF](https://chat-with-pdf-jm.vercel.app/)
 
 
 ### Day 4️⃣ | Feadtured App Deployments
+🎉 **250+ Submissions** 🎉
+
+#### 🌟 **Community Support Super Stars:**
+- **Hein Htoo**
+- **Faizan Muhammad**
+- **Steven Watkins**
+- **Deepanshu Goel**
+- **Russell Palma**
+
+#### 🚀 **Featured Builds:**
+- **Samuel Paintsil:** - [PDF Whisperer](https://pdf-whisperer-drab.vercel.app/)
+- **Hein Htoo:** - [Paper Pal](https://heinhtoo-chat-with-pdf-challenge.vercel.app/) - 🏆 2x points for the day
+- **Motlalepula Sello:** - [Smart Chat Docs](https://smart-chat-docs.vercel.app/)
+- **Steven Watkins:** - [DocuBot](https://docubot.app/)
+- **Deepanshu Goel:** - [Summaraize](https://summaraize.deepanshuweb.in/)
+- **Faizan Muhammad:** - [Chat with PDF](https://chat-with-pdf-bice-rho.vercel.app/)
+- **Steven Kyaw:** - [Chat to PDF](https://chat-to-pdf-roan.vercel.app/)
+
 
 ### Day 5️⃣ | Final Winner Announcement
+
+## 🥇 1st Place: 
+### **Aydin Joshi** - [Croduct](https://croduct.com/)
+
+## 🥈 2nd Place: 
+### **Steven Watkins** - [DocuBot](https://docubot.app/)
+
+## 🥉 3rd Place: 
+### **Dev Ben** - [?](https://?)
+
+
+### 🏆 Runner Ups:
+#### **Bonus Winners:**
+- **Hein Htoo** - [Paper Pal](https://heinhtoo-chat-with-pdf-challenge.vercel.app/)
+- **Faizan Muhammad** - [Chat with PDF](https://chat-with-pdf-bice-rho.vercel.app/)
+#### **Honorable Mention Winners:**
+- **Deepanshu Goel** - [Summaraize](https://summaraize.deepanshuweb.in/)
+- **Steven Kyaw** - [Chat to PDF](https://chat-to-pdf-roan.vercel.app/)
+- **Motlalepula Sello** - [Smart Chat Docs](https://smart-chat-docs.vercel.app/)
+- **Goncalo Jose Moura** - [PDF Chatbot](https://pdf-chatbot-seven.vercel.app/)
+#### 🎉 **Special Recognition Prizes:**
+- **Liz Myers**
+- **Scott Martin** - [Chat with PDF](https://chat-with-pdf-challenge-zeta.vercel.app/)
+- **Ciaran McGovern** 
+### Nomiations:
+
+
