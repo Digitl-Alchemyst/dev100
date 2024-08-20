@@ -1,4 +1,4 @@
-# Dev 100 - Day #
+# Dev 100 - Day 11
 
 ## Today, I accomplished the following:
 
@@ -33,7 +33,7 @@
 
     - 🏋️‍♂️ Warm-up Exercise: Create a function that converts a decimal number to its binary representation as a string.
 
-    - 🦺 Project: 
+    - 🦺 Project: Started work on Cougar-Power app for local school, ahead of schedule on coding challenge work
 
 ### 5. 🏃 **Daily Reset**:
 
@@ -43,9 +43,9 @@
 
     - 🍱 Healthy Lunch: Peanut Butter Sandwich
 
-    - 
+    - Paper work for school 
 
-    - 
+    - Job applications
 
 
 ### 7. 💪 **Support the Community**:
@@ -59,8 +59,8 @@
 
 ### 8. 🔗 **Track your Progress**:
 
-    - 🏫 [Day-#]()
+    - 🏫 [Day-10](https://www.skool.com/universityofcode/dev-100-day-10)
 
-    - 📦️ [Repo](https://github.com/Digitl-Alchemyst/dev100/blob/main/Day-3/day3.md)
+    - 📦️ [Repo](https://github.com/Digitl-Alchemyst/dev100/blob/main/Day-10/day10.md)
 
     - 📄 [Notion](https://liberating-galley-48d.notion.site/Dev100-Coding-Lifestyle-Challenge-a85ec9fba3ce41f3b29d581a1a85d92b?pvs=4)
