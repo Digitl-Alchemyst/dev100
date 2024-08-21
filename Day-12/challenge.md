@@ -33,12 +33,6 @@ The function should return a new array that contains all the elements of the inp
 - **Input:** `[1, [2, 3], [4, [5, 6]]]`
 - **Output:** `[1, 2, 3, 4, 5, 6]`
 
-- **Input:** `[7, [8, [9, 10]], 11]`
-- **Output:** `[7, 8, 9, 10, 11]`
-
-- **Input:** `[12, [13, [14, [15]]]]`
-- **Output:** `[12, 13, 14, 15]`
-
 - **Input:** `[rice, [apples, oranges, [mango, pineapple, [lemon, lime]]]]`
 - **Output:** `[rice, apples, oranges, mango, pineapple, lemon, lime]`
 
@@ -60,8 +54,6 @@ The function should return a new array that contains all the elements of the inp
 
 ```javascript
 console.log(flattenArray([1, [2, 3], [4, [5, 6]]])); // Should print [1, 2, 3, 4, 5, 6]
-console.log(flattenArray([7, [8, [9, 10]], 11]));    // Should print [7, 8, 9, 10, 11]
-console.log(flattenArray([12, [13, [14, [15]]]]));   // Should print [12, 13, 14, 15]
 console.log(flattenArray(["rice", ["apples", "oranges", ["mango", "pineapple", ["lemon", "lime"]]]])); // Should print ["rice", "apples", "oranges", "mango", "pineapple", "lemon", "lime"]
 console.log(flattenArray(["hello", [true, false, ["yes", "no"]], ["world", [undefined, null]]])); // Should print ["hello", true, false, "yes", "no", "world", undefined, null]
 console.log(flattenArray([{"key": "value"}, [["anotherKey", "anotherValue"], [{}, []]], ["end"]])); // Should print [{"key": "value"}, "anotherKey", "anotherValue", {}, [], "end"]
