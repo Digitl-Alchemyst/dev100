@@ -85,7 +85,7 @@ There are a couple of ways to approach this problem:
 
 ## Step 3: Implementing the Function
 
-###We'll use the **Recursive Approach** for this implementation.
+### We'll use the **Recursive Approach** for this implementation.
 
 **Algorithm:**
 1. Initialize an empty array to store the flattened elements.
