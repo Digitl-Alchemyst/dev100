@@ -15,8 +15,7 @@ By the end of this challenge, you’ll have a fully functional AI SaaS app with 
 - **Sponsor:**: [Clerk](https://clerk.com/)
 - **Hosted By:**: [University of Code](https://www.skool.com/universityofcode)
 
-
-🗓️ **Schedule**  
+# 🗓️ **Schedule**  
 **July 23rd until July 27th**
 
 ## 📅 Daily Agenda
