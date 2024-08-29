@@ -29,7 +29,8 @@
 
 ### 4. 🖥️ **I wrote some code today.**:
 
-    - 🏋️‍♂️ Warm-up Exercise: 
+    - 🏋️‍♂️ Warm-up Exercise: Create a function that generates the Fibonacci sequence up to a specified number of terms. The Fibonacci sequence is a series of numbers in which each number is the sum of the two preceding ones, usually starting with 0 and 1.
+
 
     - 🦺 Project: Reformatting PC today =/
 
