@@ -1,0 +1,3 @@
+This week(4), we'll dive deep into functions and scope in JavaScript. Functions are one of the fundamental building blocks of JavaScript, allowing us to write reusable, modular code. We'll explore various aspects of functions, including function declarations, expressions, arrow functions, and higher-order functions.
+Scope is another crucial concept in JavaScript that determines the visibility and accessibility of variables. We'll look at global scope, function scope, and block scope, as well as closures and the lexical environment.
+Throughout the week, we'll progress from basic function concepts to more advanced topics, helping you build a solid understanding of how functions and scope work in JavaScript.
