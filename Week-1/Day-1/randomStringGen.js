@@ -47,3 +47,7 @@ function randomizeString(stringNumber, stringWithoutDashes) {
 // Produce the randomized string
 const randomizedString = randomizeString( stringNumber, stringWithoutDashes, );
 console.log('🚀 ~ Randomized String:', randomizedString);
+
+
+
+//Bonus Challenge Refactor this into a function compisition

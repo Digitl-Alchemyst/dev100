@@ -6,24 +6,23 @@
 
     - 🍳 Healthy Breakkfast:
 
-    - 
+    - Got up Early for Coaching Call with Sonny
 
-    - 
-
+    - Power nap after coaching call & a big coffee, make bed, clean office
 
 ### 2. ✔️ **To-Dos & Dids.**:
 
     - [Checkmate AI](https://checkmate-ai.vercel.app/)
 
-    - 
+    - Today is my birthday To-Dos are very low priority for today. 
 
-    - 
+    - Added a few more
 
 ### 3. 📚 **I learned something today.**:
 
-    - 🦸‍♂️ **Zero to Full Stack Hero**: 
+    - 🦸‍♂️ **Zero to Full Stack Hero**: Creating blurred out blob Animations with Key Frames by BRIAN ARTEA, Coaching Call w/ Sonny last hour, CSS Preprocessors - Sass vs LESS vs Stylus (With Examples)
 
-    - []()
+    - [This is the coolest side project I've worked on](https://www.youtube.com/watch?v=qdxhGOZI6OQ) Break down of data flow for AI video generator project
 
     - []()
 
@@ -33,7 +32,7 @@
 
     - 🏋️‍♂️ Warm-up Exercise: 
 
-    - 🦺 Project: 
+    - 🦺 Project: Daily coding challenge Project started website
 
 ### 5. 🏃 **Daily Reset**:
 
@@ -41,21 +40,13 @@
 
 ### 6. 🌈 **I had a productive afternoon.**:
 
-    - 🍱 Healthy Lunch: 
+    - 🍱 Healthy Lunch: skipped but had a huge steak dinner
 
-    - 
-
-    - 
-
+    - Rough afternoon spent arguing with hospital ><
 
 ### 7. 💪 **Support the Community**:
 
-    - []()
-
-    - []()
-
-    - []()
-    
+    - nothing today.
 
 ### 8. 🔗 **Track your Progress**:
 

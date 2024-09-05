@@ -29,6 +29,8 @@ console.log(factorial(0)); // Should print 1
 
 ## Expanded Instructions
 
+**Spiolers ALERT**
+
 ### Step 1: Understanding the Problem
 The factorial of a non-negative integer `n`, denoted as `n!`, is the product of all positive integers from 1 to `n`. For example, 5! = 5 * 4 * 3 * 2 * 1 = 120. The factorial function grows rapidly with increasing `n`, which means that even small values of `n` can lead to large results. For example, 10! = 3,628,800.
 
