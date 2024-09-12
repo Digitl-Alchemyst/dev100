@@ -4,20 +4,23 @@
 
 ### 1. 🌅 Morning Productivity
 
-- 🍳 Healthy Breakfast: [Meal description]
-- [Activity 1]
-- [Activity 2]
+- 🍳 Healthy Breakfast: 6x Turkey Sausage, 3 Eggs Scrambled, Hasbrowns, 2x Toast, 2x Juice
+- Office Cleaning Day, no school so easy morning routine
+- Project Management: RFD, Branch managment
+
 
 ### 2. ✅ To-Dos & Completed Tasks
 
 - [Checkmate AI](https://checkmate-ai.vercel.app/)
-- [ ] [Update To-Dos]
-- [ ] [Clear Complete Task]
+- [X] [Update To-Dos]
+- [X] [Clear Complete Task]
+- Try to finish article on Gaza Extortion
 - Daily To-Do Report:
 
 ### 3. 📚 Learning
 
 - 🦸‍♂️ **Zero to Full Stack Hero**: [Topic or skill learned]
+- 🔗 [Build a Complete Sign-Up and Sign-In with Next.js, NextAuth, PostgreSQL, and Prisma](https://www.youtube.com/watch?v=bicCg4GxOP8) [Part-2]
 - 🔗 [Resource 1 title](URL)
 - 🔗 [Resource 2 title](URL)
 - 🔗 [Resource 3 title](URL)
