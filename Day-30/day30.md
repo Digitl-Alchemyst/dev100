@@ -1,4 +1,4 @@
-# Dev 100 - Day [Number]
+# Dev 100 - Day 30
 
 ## Today's Accomplishments
 
@@ -8,14 +8,13 @@
 - Office Cleaning Day, no school so easy morning routine
 - Project Management: RFD, Branch managment
 
-
 ### 2. ✅ To-Dos & Completed Tasks
 
 - [Checkmate AI](https://checkmate-ai.vercel.app/)
 - [X] [Update To-Dos]
 - [X] [Clear Complete Task]
 - Try to finish article on Gaza Extortion
-- Daily To-Do Report:
+- Daily To-Do Report: 3 in progress, 4 To-Do 0 done, 5 task complete in Jira
 
 ### 3. 📚 Learning
 
@@ -26,7 +25,7 @@
 
 ### 4. 💻 Coding Progress
 
-- 🏋️‍♂️ Warm-up Exercise: [Brief description]
+- 🏋️‍♂️ Warm-up Exercise: Create two JavaScript functions: one that filters an array to keep only even numbers, and another that squares each element in an array. These functions will demonstrate the use of array methods and basic mathematical operations in JavaScript.
 - 🦺 Project: RFD, Microsoft single Tenant Auth, working on Multi Tenant, not solved yet
 
 ### 5. 🔄 Daily Reset
@@ -37,20 +36,15 @@
 
 - 🍱 Healthy Lunch: Skipped lunch but huge breakfast and big dinner
 - Vacuum, Dishes, Cleaning, Laundry
-- [Activity 2]
+- Homework with Rhythm
 
 ### 7. 🤝 Community Support
 
-- 🔗 [Contribution 1 description](URL)
-- 🔗 [Contribution 2 description](URL)
-- 🔗 [Contribution 3 description](URL)
+- 🦟 Debugging MS auth provider with Aydin 
 
 ### 8. 📊 Progress Tracking
 
-- 🏫 [Day#](URL-to-daily-log)
+- 🏫 [Day 29](https://www.skool.com/universityofcode/dev-100-day-29)
 - 📦 [GitHub Repo](https://github.com/Digitl-Alchemyst/dev100/blob/main/Day-[Number]/day[Number].md)
 - 📄 [Notion Page](https://liberating-galley-48d.notion.site/Dev100-Coding-Lifestyle-Challenge-a85ec9fba3ce41f3b29d581a1a85d92b?pvs=4)
 
-## Reflections and Notes
-
-[Add any additional thoughts, challenges, or achievements from the day]
