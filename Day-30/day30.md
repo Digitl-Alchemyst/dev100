@@ -19,28 +19,24 @@
 
 ### 3. 📚 Learning
 
-- 🦸‍♂️ **Zero to Full Stack Hero**: [Topic or skill learned]
+- 🦸‍♂️ **Zero to Full Stack Hero**: None Today
 - 🔗 [Build a Complete Sign-Up and Sign-In with Next.js, NextAuth, PostgreSQL, and Prisma](https://www.youtube.com/watch?v=bicCg4GxOP8) [Part-2]
-- 🔗 [Resource 1 title](URL)
-- 🔗 [Resource 2 title](URL)
-- 🔗 [Resource 3 title](URL)
+- 🔗 [The Ultimate Clean Code](https://www.youtube.com/watch?v=KvIMe69XO00)
+- 🔗 [Single and multi-tenant applications in Microsoft Entra ID](https://www.youtube.com/watch?v=NyZz1ICG7dQ)
 
 ### 4. 💻 Coding Progress
 
 - 🏋️‍♂️ Warm-up Exercise: [Brief description]
-- 🦺 Project: [Project name and brief description]
-  ```
-  [Code snippet or summary]
-  ```
+- 🦺 Project: RFD, Microsoft single Tenant Auth, working on Multi Tenant, not solved yet
 
 ### 5. 🔄 Daily Reset
 
-- [Reset activity or habit]
+- Chill time, smoke break, play with kids
 
 ### 6. 🌤️ Afternoon Productivity
 
-- 🍱 Healthy Lunch: [Meal description]
-- [Activity 1]
+- 🍱 Healthy Lunch: Skipped lunch but huge breakfast and big dinner
+- Vacuum, Dishes, Cleaning, Laundry
 - [Activity 2]
 
 ### 7. 🤝 Community Support
