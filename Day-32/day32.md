@@ -4,8 +4,8 @@
 
 ### 1. 🌅 Morning Productivity
 
-- 🍳 Healthy Breakfast: [Meal description]
-- [Activity 1]
+- 🍳 Healthy Breakfast: 3x Turkey Sausage, 2x Buttered Toast, 3x Scrambled Eggs, Hashbrowns
+- Make Bed
 - [Activity 2]
 
 ### 2. ✅ To-Dos & Completed Tasks
@@ -18,8 +18,10 @@
 ### 3. 📚 Learning
 
 - 🦸‍♂️ **Zero to Full Stack Hero**: [Topic or skill learned]
-- 🔗 [Resource 1 title](URL)
-- 🔗 [Resource 2 title](URL)
+- 🔗 [A guessing game (Binary Search)](https://www.khanacademy.org/computing/computer-science/algorithms/intro-to-algorithms/a/a-guessing-game)
+- 🔗 [Binary search](https://www.khanacademy.org/computing/computer-science/algorithms/binary-search/a/binary-search)
+- 🔗 [Resource 3 title](https://www.khanacademy.org/computing/computer-science/algorithms/binary-search/a/running-time-of-binary-search)
+- 🔗 [Running time of binary search](URL)
 - 🔗 [Resource 3 title](URL)
 
 ### 4. 💻 Coding Progress
@@ -42,7 +44,7 @@
 
 ### 7. 🤝 Community Support
 
-- 🔗 [Contribution 1 description](URL)
+- 🔗 [I struck AI gold in the learning mines.](https://www.skool.com/universityofcode/i-struck-ai-gold-in-the-learning-mines)
 - 🔗 [Contribution 2 description](URL)
 - 🔗 [Contribution 3 description](URL)
 

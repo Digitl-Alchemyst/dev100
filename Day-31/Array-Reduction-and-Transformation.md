@@ -1,6 +1,10 @@
 # Code Challenge: Array Reduction and Transformation
 
-## Problem Statement 
+## Problem Statement
+
+Implement two JavaScript functions: 
+1. A function that finds the maximum element in an array.
+2. A function that removes duplicate elements from an array. 
 
 - These functions demonstrate important array manipulation techniques in JavaScript, including iteration, comparison, and filtering.
 
