@@ -1,14 +1,11 @@
-
-
-
-
 let unsortedArray = [5, 2, 8, 1, 9];
 let sortedArray = sortArray(unsortedArray);
 
 
 function sortArray(arr) {
-    n = arr.length;
-      // Your code here
+    // Your code here
+    let n = arr.length;
+    let swapped;
       for (let i = 0; i < n - 1; i++) {
         swapped = false;
         for ( let j = 0; j < n - i - 1; j++) {
@@ -19,28 +16,22 @@ function sortArray(arr) {
                 arr[j + 1] = tmp;
                 swapped = true;            
             }
-
         }
         //Break if no two elements were swapped by the inner loop
         if (swapped == false ) {
             break;
         }
-
-
-
       }
 return arr;
 }
 
 function binarySearch(arr, target) {
   // Your code here
-
   let left = 0;
   let right = arr.length - 1;
 
   while (left <= right) {
     let mid = Math.floor((left + right) / 2);
-
     if (arr[mid] === target) {
       return mid;
     } else if (arr[mid] < target) {
