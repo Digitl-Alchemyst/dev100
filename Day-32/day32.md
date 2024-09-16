@@ -62,7 +62,7 @@
 
 ### 8. 📊 Progress Tracking
 
-- 🏫 [Day31](https://www.skool.com/universityofcode/dev-100-day-31)
+- 🏫 [Day-31](https://www.skool.com/universityofcode/dev-100-day-31)
 - 📦 [GitHub Repo](https://github.com/Digitl-Alchemyst/dev100/blob/main/Day-31/day31.md)
 - 📄 [Notion Page](https://liberating-galley-48d.notion.site/Dev100-Coding-Lifestyle-Challenge-a85ec9fba3ce41f3b29d581a1a85d92b?pvs=4)
 

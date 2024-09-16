@@ -40,9 +40,9 @@ const config: Config = {
           600: "#2a262d",
           700: "#201c22",
           800: "#151316",
-          900: "#0b090b"
+          900: "#0b090b",
         },
-        light:  {
+        light: {
           100: "#fbfafc",
           200: "#f7f6f8",
           300: "#f4f1f5",
@@ -51,7 +51,7 @@ const config: Config = {
           600: "#bdbabe",
           700: "#8e8b8f",
           800: "#5e5d5f",
-          900: "#2f2e30"
+          900: "#2f2e30",
         },
         mid: {
           100: "#f4f4f6",
@@ -62,11 +62,13 @@ const config: Config = {
           600: "#9e9ea8",
           700: "#77777e",
           800: "#4f4f54",
-          900: "#28282a"
+          900: "#28282a",
         },
       },
     },
   },
-  plugins: [],
+  plugins: [
+    require("tailwind-scrollbar-hide"),
+  ],
 };
 export default config;
