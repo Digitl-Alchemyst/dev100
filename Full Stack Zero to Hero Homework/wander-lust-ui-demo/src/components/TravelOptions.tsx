@@ -1,12 +1,37 @@
-import React from "react";
+"use client";
 
-function TravelOptions({ emoji, title }: { emoji: string; title: string }) {
+import React, { useState } from "react";
+import TravelOptionsButton from "./TravelOptionsButton"; // Importing your TravelOptions component
+
+function TravelOptionsGroup() {
+  const [activeIndex, setActiveIndex] = useState<number | null>(null); // Track the active button index
+
+  const travelOptions = [
+          { emoji: "👬", title: "Group" },
+          { emoji: "🌴", title: "Safari" },
+          { emoji: "🚆", title: "Train" },
+          { emoji: "🛳️", title: "Cruise" },
+          { emoji: "💎", title: "Luxury" },
+          { emoji: "⛰️", title: "Retreat" }
+  ];
+
+  const handleSetActive = (index: number) => {
+    setActiveIndex(index); // Set the clicked button as active
+  };
+
   return (
-    <div className="flex flex-col justify-between items-center bg-accent2-200 py-4 px-2 rounded-full w-20 h-32 space-y-4">
-      <p className="text-2xl bg-accent1-400 rounded-full p-3">{emoji}</p>
-      <p className="text-lg text-accent1-500 font-semibold pb-1">{title}</p>
+    <div className="flex space-x-4 flex-wrap">
+      {travelOptions.map((option, index) => (
+        <TravelOptionsButton
+          key={index}
+          emoji={option.emoji}
+          title={option.title}
+          active={activeIndex === index}
+          onClick={() => handleSetActive(index)} // Pass the click handler with the index
+        />
+      ))}
     </div>
   );
 }
 
-export default TravelOptions;
+export default TravelOptionsGroup;

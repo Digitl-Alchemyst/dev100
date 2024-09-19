@@ -18,13 +18,14 @@
 ### 3. 📚 Learning
 
 - 🦸‍♂️ **Zero to Full Stack Hero**: [Topic or skill learned]
-- 🔗 [Resource 1 title](URL)
-- 🔗 [Resource 2 title](URL)
-- 🔗 [Resource 3 title](URL)
+- 🔗 [Resource](URL)
+- 🔗 [Resource](URL)
+- 🔗 [Resource](URL)
 
 ### 4. 💻 Coding Progress
 
-- 🏋️‍♂️ Warm-up Exercise: [Brief description]
+- 🧠 Warm-up Exercise: [Brief description]
+- 🏫 **Zero to Full Stack Hero Homework**:
 - 🦺 Project: [Project name and brief description]
   ```
   [Code snippet or summary]
@@ -32,7 +33,8 @@
 
 ### 5. 🔄 Daily Reset
 
-- [Reset activity or habit]
+- 🏋️‍♂️ [Physical Activity]
+- 🧘 [Relax and Reset Activity]
 
 ### 6. 🌤️ Afternoon Productivity
 
@@ -42,13 +44,13 @@
 
 ### 7. 🤝 Community Support
 
-- 🔗 [Contribution 1 description](URL)
-- 🔗 [Contribution 2 description](URL)
-- 🔗 [Contribution 3 description](URL)
+- 🔗 [Contribution](URL)
+- 🔗 [Contribution](URL)
+- 🔗 [Contribution](URL)
 
 ### 8. 📊 Progress Tracking
 
-- 🏫 [Day#](URL-to-daily-log)
+- 🏫 [Day-[Number]]([URL-to-daily-log](https://www.skool.com/universityofcode/dev-100-day-[Number]))
 - 📦 [GitHub Repo](https://github.com/Digitl-Alchemyst/dev100/blob/main/Day-[Number]/day[Number].md)
 - 📄 [Notion Page](https://liberating-galley-48d.notion.site/Dev100-Coding-Lifestyle-Challenge-a85ec9fba3ce41f3b29d581a1a85d92b?pvs=4)
 
