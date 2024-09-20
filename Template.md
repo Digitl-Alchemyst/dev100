@@ -50,7 +50,7 @@
 
 ### 8. 📊 Progress Tracking
 
-- 🏫 [Day-[Number]]([URL-to-daily-log](https://www.skool.com/universityofcode/dev-100-day-[Number]))
+- 🏫 [Day-[Number]](https://www.skool.com/universityofcode/dev-100-day-[Number])
 - 📦 [GitHub Repo](https://github.com/Digitl-Alchemyst/dev100/blob/main/Day-[Number]/day[Number].md)
 - 📄 [Notion Page](https://liberating-galley-48d.notion.site/Dev100-Coding-Lifestyle-Challenge-a85ec9fba3ce41f3b29d581a1a85d92b?pvs=4)
 
