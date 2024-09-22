@@ -25,7 +25,7 @@
 ### 4. 💻 Coding Progress
 
 - 🧠 Warm-up Exercise: Create a library book tracking system using closures to encapsulate private data (book inventory) and provide public methods for adding books, checking out books, returning books, and getting the current inventory status. This challenge aims to reinforce understanding of closures and encapsulation in JavaScript, using a practical, non-financial example.
-- 🦺 Project: [Project name and brief description]
+- 🦺 Project: "dev-100" More UI work & rendering of markdown components
 
 ```javascript
       addBook: function (title, author, copies = 1) {

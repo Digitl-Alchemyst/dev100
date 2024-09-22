@@ -4,32 +4,32 @@
 
 ### 1. 🌅 Morning Productivity
 
-- 🍳 Healthy Breakfast: [Meal description]
-- [Activity 1]
+- 🍳 Healthy Breakfast: Sausage Breakfast Casarole
+- [x] Morning Rountine: Clean Office, Rhythm Ready for School, Emails
 - [Activity 2]
 
 ### 2. ✅ To-Dos & Completed Tasks
 
 - [Checkmate AI](https://checkmate-ai.vercel.app/)
-- [ ] [Update To-Dos]
-- [ ] [Clear Complete Task]
+- [X] [Update To-Dos]
+- [X] [Clear Complete Task]
 - Daily To-Do Report:
 
 ### 3. 📚 Learning
 
 - 🦸‍♂️ **Zero to Full Stack Hero**: [Topic or skill learned]
-- 🔗 [Resource](URL)
-- 🔗 [Resource](URL)
+- 🔗 [Composition Vs Inheritance - Why You Should Stop Using Inheritance](https://www.youtube.com/watch?v=nnwD5Lwwqdo)
+- 🔗 [Boost Your JavaScript Skills: Mastering Object Creation with Composition](https://www.youtube.com/watch?v=dYHWvUVMnCU)
 - 🔗 [Resource](URL)
 
 ### 4. 💻 Coding Progress
 
-- 🧠 Warm-up Exercise: [Brief description]
+- 🧠 Warm-up Exercise: Create a system for building customizable characters in a game using object composition. Implement different abilities (e.g., flying, swimming, fighting) as separate objects, then compose these abilities into character objects. This challenge aims to reinforce understanding of object composition, a fundamental concept in object-oriented programming that allows for flexible and modular code design.
 - 🏫 **Zero to Full Stack Hero Homework**:
-- 🦺 Project: [Project name and brief description]
-  ```
-  [Code snippet or summary]
-  ```
+- 🦺 Project: Docubot - Chat Interface Update, RFD -
+```
+[Code snippet or summary]
+```
 
 ### 5. 🔄 Daily Reset
 
@@ -44,7 +44,7 @@
 
 ### 7. 🤝 Community Support
 
-- 🔗 [Contribution](URL)
+- 🔗 [I got this error in SaaS](https://www.skool.com/universityofcode/i-this-got-error-in-saas?p=d04a58eb) I think I was able to solve this waiting on confirm
 - 🔗 [Contribution](URL)
 - 🔗 [Contribution](URL)
 
