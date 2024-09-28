@@ -49,9 +49,7 @@
 
 ### 7. 🤝 Community Support
 
-- 🔗 [Contribution](URL)
-- 🔗 [Contribution](URL)
-- 🔗 [Contribution](URL)
+- 🔗see attached lesson
 
 ### 8. 📊 Progress Tracking
 
@@ -59,6 +57,4 @@
 - 📦 [GitHub Repo](https://github.com/Digitl-Alchemyst/dev100/blob/main/Day-41/day41.md)
 - 📄 [Notion Page](https://liberating-galley-48d.notion.site/Dev100-Coding-Lifestyle-Challenge-a85ec9fba3ce41f3b29d581a1a85d92b?pvs=4)
 
-## Reflections and Notes
 
-[Add any additional thoughts, challenges, or achievements from the day]
