@@ -6,11 +6,7 @@
 
 ## Function Signature
 
-```javascript
-function nameOfFunction() {
-   // Your code here 
-}
-```
+[provide an initial function signature suitable for the need of the challenge]
 
 ## Input
 
@@ -48,9 +44,11 @@ function nameOfFunction() {
 ### **Spiolers Ahead**
 
 ### Step 1: Understanding the Problem
+
 [Give a thorough explanation of the problem statement, including any constraints or special conditions. Explain and non coding concepts needed to understand the problem, such as math equations, or other concepts]
 
 ### Step 2: Implementing the Functions
+
 [Provide a detailed explanation of the problem-solving approach. Where possible give at least 2 different methods to solve the problem. Break it down into steps]
 
 1. [Step 1 of the approach]
@@ -59,11 +57,13 @@ function nameOfFunction() {
    ...
 
 ### Step 3: Testing the Functions
+
 [Explain how to test the script in detail, including how to properly pass test case data to the function]
 
 **Test Cases**
 
 1. Test Case 1:
+
    - Input: `[input]`
    - Expected Output: `[output]`
 

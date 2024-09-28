@@ -19,19 +19,21 @@
 ### 3. 📚 Learning
 
 - 🦸‍♂️ **Zero to Full Stack Hero**: [Topic or skill learned]
-- 🔗 [Resource](URL)
-- 🔗 [Resource](URL)
-- 🔗 [Resource](URL)
+- 🔗 [Top 5 Ways To Document Your Code](https://www.youtube.com/watch?v=uPMxUnBjGG8)
+- 🔗 [Learn DOM Manipulation In 18 Minutes](https://www.youtube.com/watch?v=y17RuWkWdn) Kyle is amazing at making everything so simple. Truly lives up to his channel name.
+- 🔗 [Clean Code Notes — Chapter 4: Comments](https://medium.com/@akineralkan/clean-code-notes-chapter-4-comments-7db25fdd1055)
 
 ### 4. 💻 Coding Progress
 
-- 🧠 Warm-up Exercise: [Brief description]
+- 🧠 Warm-up Exercise: In this challenge, you'll practice selecting DOM elements using various methods. Your task is to implement functions that select specific elements from a given HTML structure.
 - 🏫 **Zero to Full Stack Hero Homework**:
 - 🦺 Project: [Project name and brief description]
 - 📝 Code Snippet:
 
 ```javascript
-[Code snippet or summary]
+function selectElementsByClassName(className) {
+  return document.getElementsByClassName(className);
+}
 ```
 
 ### 5. 🔄 Daily Reset
