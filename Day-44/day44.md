@@ -1,4 +1,4 @@
-# Dev 100 - Day [Number]
+# Dev 100 - Day [44]
 
 ## Today's Accomplishments
 
@@ -6,57 +6,48 @@
 
 - 🍳 Healthy Breakfast: [Meal description]
 - [x] Morning Rountine: Clean Office, Rhythm Ready for School, Emails, Make Bed
-- [Activity 1]
-- [Activity 2]
+- GraphQL API Enigneer Interview
+- Therapy Session
 
 ### 2. ✅ To-Dos & Completed Tasks
 
 - [Checkmate AI](https://checkmate-ai.vercel.app/)
-- [ ] [Update To-Dos]
-- [ ] [Clear Complete Task]
-- Daily To-Do Report:
+- [x] [Update To-Dos]
+- [x] [Clear Complete Task]
+- Daily To-Do Report: 5 Done | 1 in Progress | 1 To-Do
 
 ### 3. 📚 Learning
 
-- 🦸‍♂️ **Zero to Full Stack Hero**: [Topic or skill learned]
-- 🔗 [Resource](URL)
-- 🔗 [Resource](URL)
-- 🔗 [Resource](URL)
+- 🔗 [Why Beautiful Websites Don’t Convert](https://www.youtube.com/watch?v=Toonu-cTE60)
+- 🔗 [20 System Design Concepts Explained in 10 Minutes](https://www.youtube.com/watch?v=i53Gi_K3o7I)
+- 🔗 [How You Can Start a 5 Figure Side Business as Software Engineer](https://brianjenney.medium.com/how-you-can-start-a-5-figure-side-business-as-software-engineer-15b5634f3821)
 
 ### 4. 💻 Coding Progress
 
-- 🧠 Warm-up Exercise: [Brief description]
-- 🏫 **Zero to Full Stack Hero Homework**:
-- 🦺 Project: [Project name and brief description]
+- 🧠 Warm-up Exercise: Changing Dom attributes 
+- 🦺 Project: Docubot - Debugg Account management
 - 📝 Code Snippet:
 
 ```javascript
-[Code snippet or summary]
+return document.querySelector(selector).style[property] = value;
 ```
 
 ### 5. 🔄 Daily Reset
-
-- 🏋️‍♂️ [Physical Activity]
-- 🧘 [Relax and Reset Activity]
-
 ### 6. 🌤️ Afternoon Productivity
 
-- 🍱 Healthy Lunch: [Meal description]
-- [Activity 1]
-- [Activity 2]
+- 🍱 Healthy Lunch: Banana Pudding 
+- Mom broke her foot this afternoon had to take her to the doctor. 
 
 ### 7. 🤝 Community Support
 
-- 🔗 [Contribution](URL)
-- 🔗 [Contribution](URL)
-- 🔗 [Contribution](URL)
+- 🔗 Helped Aydin with data fetching form Prisma
 
 ### 8. 📊 Progress Tracking
 
-- 🏫 [Day-[Number]](https://www.skool.com/universityofcode/dev-100-day-[Number])
-- 📦 [GitHub Repo](https://github.com/Digitl-Alchemyst/dev100/blob/main/Day-[Number]/day[Number].md)
+- 🏫 [Day-43](https://www.skool.com/universityofcode/dev-100-day-43)
+- 📦 [GitHub Repo](https://github.com/Digitl-Alchemyst/dev100/blob/main/Day-43/day43.md)
 - 📄 [Notion Page](https://liberating-galley-48d.notion.site/Dev100-Coding-Lifestyle-Challenge-a85ec9fba3ce41f3b29d581a1a85d92b?pvs=4)
 
 ## Reflections and Notes
 
-[Add any additional thoughts, challenges, or achievements from the day]
+Day got cut a little short due to mom's accident. Going to have to take her to sugery in the morning. Will likely be a short day tomorrow as well. Still getting stuff done despite the hurdles. This makes me like the routine is having a strong impact on my productivity.
