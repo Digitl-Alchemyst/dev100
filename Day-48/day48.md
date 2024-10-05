@@ -1,13 +1,13 @@
-# Dev 100 - Day [Number]
+# Dev 100 - Day [48]
 
 ## Today's Accomplishments
 
 ### 1. 🌅 Morning Productivity
 
 - 🍳 Healthy Breakfast: [Meal description]
-- [x] Morning Rountine: Clean Office, Rhythm Ready for School, Emails, Make Bed
-- [Activity 1]
-- [Activity 2]
+- [x] Morning Rountine: Clean Office, Emails
+- MTG Matches for wake up time.
+- Cooking and laundry for mom.
 
 ### 2. ✅ To-Dos & Completed Tasks
 
@@ -19,6 +19,9 @@
 ### 3. 📚 Learning
 
 - 🦸‍♂️ **Zero to Full Stack Hero**: [Topic or skill learned]
+- 🔗 [Ex-OpenAI Employee Reveals TERRIFYING Future of AI](https://www.youtube.com/watch?v=WLJJsIy1x44)
+- 🔗 [Huge ChatGPT Upgrade - Introducing “Canvas”](https://www.youtube.com/watch?v=Bx7I06w6vVA)
+- 🔗 [This AI Coder Is On Another Level (Pythagora Tutorial)](https://www.youtube.com/watch?v=spsG4G2sbrw)
 - 🔗 [Resource](URL)
 - 🔗 [Resource](URL)
 - 🔗 [Resource](URL)
