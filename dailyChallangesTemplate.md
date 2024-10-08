@@ -2,7 +2,7 @@
 
 ## Problem Statement
 
-[Provide a clear and concise description of the problem to be solved. Also give a statement defining the purpose of this challenge and the role it plays in javascript]
+[Provide a clear and concise description of the problem to be solved. Also give a statement defining the purpose of this challenge and the role it plays in javascript 2x paragraphs]
 
 ## Function Signature
 
