@@ -1,60 +1,68 @@
-# Dev 100 - Day [Number]
+# Dev 100 - Day [56]
 
 ## Today's Accomplishments
 
 ### 1. 🌅 Morning Productivity
 
-- 🍳 Healthy Breakfast: [Meal description]
+- 🍳 Healthy Breakfast: Turkey Sausage & Busicuit
 - [x] Morning Rountine: Clean Office, Rhythm Ready for School, Emails, Make Bed
-- [Activity 1]
-- [Activity 2]
+- Moms doc appointment
+- Paired Programming with Aydin
 
 ### 2. ✅ To-Dos & Completed Tasks
 
 - [Checkmate AI](https://checkmate-ai.vercel.app/)
-- [ ] [Update To-Dos]
-- [ ] [Clear Complete Task]
+- [x] [Update To-Dos]
+- [x] [Clear Complete Task]
 - Daily To-Do Report:
 
 ### 3. 📚 Learning
 
-- 🦸‍♂️ **Zero to Full Stack Hero**: [Topic or skill learned]
-- 🔗 [Resource](URL)
-- 🔗 [Resource](URL)
-- 🔗 [Resource](URL)
+
+- 🔗 [5 Systems Every Service Business Needs To Use Daily](https://www.youtube.com/watch?v=DSDrE9iiXCg)
+- 🔗 [How I'd Make My First $10K Online If I Had To Restart (Using Upwork)](https://www.youtube.com/watch?v=1bTY4OmQpOU)
+- 🔗 [DevOps Guy REACTS: AI Took 5 Minutes What YOU Took 3 Days To Do! Why So Long?](https://www.youtube.com/watch?v=mQtbLYtlB7Y)
+- 🔗 [I Forked Bolt.new and Made it WAY Better](https://www.youtube.com/watch?v=3PFcAu_oU80)
 
 ### 4. 💻 Coding Progress
 
-- 🧠 Warm-up Exercise: [Brief description]
-- 🏫 **Zero to Full Stack Hero Homework**:
-- 🦺 Project: [Project name and brief description]
+- 🧠 Warm-up Exercise: You're tasked with creating an asynchronous task queue system for a social media management tool. This system needs to handle posting to multiple social media platforms, each with its own API and potential for errors. Your job is to implement a robust task queue that can handle various types of errors, provide useful feedback, and manage concurrent executions.
+- 🦺 Project: EBT Full Refactor
 - 📝 Code Snippet:
 
 ```javascript
-[Code snippet or summary]
+this.activeTasks++;
+const { task, resolve, reject } = this.queue.shift();
+
+try {
+  const result = await task();
+  resolve(result);
+} catch (error) {
+  reject(error);
+} finally {
+  this.activeTasks--;
+  this.runNext();
+}
 ```
 
 ### 5. 🔄 Daily Reset
 
-- 🏋️‍♂️ [Physical Activity]
-- 🧘 [Relax and Reset Activity]
+- 🏋️‍♂️ Deep Streches 5x[25] Pushups 2x[15] Situps
+- 🧘 Shower & Smoke Sesh
 
 ### 6. 🌤️ Afternoon Productivity
 
-- 🍱 Healthy Lunch: [Meal description]
-- [Activity 1]
-- [Activity 2]
+- 🍱 Healthy Lunch: Mystery Flavor Noodles ( somethign the wife whipped up from nothing )
+- Lunch for mom
 
 ### 7. 🤝 Community Support
 
-- 🔗 [Contribution](URL)
-- 🔗 [Contribution](URL)
-- 🔗 [Contribution](URL)
+- Paired Coding / Tutoring with Aydin covering fetching data with prisma, supabase sotrage bucket, exploring data storage and transmission methods for his school project app, Ai automation, AI prompting for development and learning, several tangets
 
 ### 8. 📊 Progress Tracking
 
-- 🏫 [Day-[Number]](https://www.skool.com/universityofcode/dev-100-day-[Number])
-- 📦 [GitHub Repo](https://github.com/Digitl-Alchemyst/dev100/blob/main/Day-[Number]/day[Number].md)
+- 🏫 [Day-55](https://www.skool.com/universityofcode/dev-100-day-55)
+- 📦 [GitHub Repo](https://github.com/Digitl-Alchemyst/dev100/blob/main/Day-55/day55.md)
 - 📄 [Notion Page](https://liberating-galley-48d.notion.site/Dev100-Coding-Lifestyle-Challenge-a85ec9fba3ce41f3b29d581a1a85d92b?pvs=4)
 
 ## Reflections and Notes
