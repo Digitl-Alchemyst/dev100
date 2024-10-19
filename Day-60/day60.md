@@ -1,4 +1,4 @@
-# Dev 100 - Day [Number]
+# Dev 100 - Day [60]
 
 ## Today's Accomplishments
 
@@ -18,8 +18,13 @@
 
 ### 3. 📚 Learning
 
-- 🦸‍♂️ **Zero to Full Stack Hero**: [Topic or skill learned]
-- 🔗 [Resource](URL)
+- 🦸‍♂️ **Zero to Full Stack Hero**: find() sort()
+- 🔗 [Automate Your Workflow with Airtable & AI | Quick Tutorial](https://www.youtube.com/shorts/KBvUEAXJI44)
+- 🔗 [Automate Blog and Social Media Posts with AI: A Step-by-Step Guide](https://www.youtube.com/watch?v=vdoQwWG5V5E)
+- 🔗 [How to handle Cookie Consent in any Next.js app the EASY way! (Cookiebot Tutorial for Beginners)](https://www.youtube.com/watch?v=P5rGGE2nBCg)
+- 🔗 [This free analytics tool was a breeze to setup](https://www.youtube.com/watch?v=p1YnUobgngo)
+- 🔗 [Custom AI Article Writer w/ Make.com, OpenAI & PerplexityAI](https://www.youtube.com/watch?v=JU83DxWdcok)
+- 🔗 [The HARD Truth About Hosting Your Own LLMs](https://www.youtube.com/watch?v=EMuBqcO048E)
 - 🔗 [Resource](URL)
 - 🔗 [Resource](URL)
 
