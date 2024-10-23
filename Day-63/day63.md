@@ -19,9 +19,10 @@
 ### 3. 📚 Learning
 
 - 🦸‍♂️ **Zero to Full Stack Hero**: [Topic or skill learned]
-- 🔗 [Resource](URL)
-- 🔗 [Resource](URL)
-- 🔗 [Resource](URL)
+- 🔗 [I'm Building the BEST Open Source AI Coding Assistant with YOUR Help](https://www.youtube.com/watch?v=p1YvKuRfEhg)
+- 🔗 [This n8n AI Agent converts ANY YouTube video into amazing workflows (NO CODE!!)](https://www.youtube.com/watch?v=zl5tDaFxrNo)
+- 🔗 [Custom AI Article Writer w/ Make.com, OpenAI & PerplexityAI](https://www.youtube.com/watch?v=JU83DxWdcok)
+- 🔗 [How AI is Revolutionizing Web Scraping: Oxylabs Unveils the Future of Data Gathering | EP.17](https://www.youtube.com/watch?v=uTu1xaqWyjg)
 
 ### 4. 💻 Coding Progress
 
@@ -53,10 +54,10 @@
 
 ### 8. 📊 Progress Tracking
 
-- 🏫 [Day-[Number]](https://www.skool.com/universityofcode/dev-100-day-[Number])
-- 📦 [GitHub Repo](https://github.com/Digitl-Alchemyst/dev100/blob/main/Day-[Number]/day[Number].md)
+- 🏫 [Day-62](https://www.skool.com/universityofcode/dev-100-day-62)
+- 📦 [GitHub Repo](https://github.com/Digitl-Alchemyst/dev100/blob/main/Day-62/day62.md)
 - 📄 [Notion Page](https://liberating-galley-48d.notion.site/Dev100-Coding-Lifestyle-Challenge-a85ec9fba3ce41f3b29d581a1a85d92b?pvs=4)
 
 ## Reflections and Notes
 
-[Add any additional thoughts, challenges, or achievements from the day]
+

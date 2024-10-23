@@ -155,6 +155,13 @@ stack.push('B');
 stack.push('C');
 console.log(stack.pop());  // Should print 'C'
 
+/**
+ * This section of the code demonstrates the use of the `reverse()` and `sort()` array methods.
+ * 
+ * The first part of the code reverses the order of the elements in the `words` array.
+ * 
+ * The second part of the code sorts the `words` array in a case-insensitive manner.
+ */
 // Day 6: reverse() and Advanced sort()
 // Challenge: Use reverse() and implement a custom sort()
 const words = ["apple", "Banana", "cherry", "Date", "Elderberry"];
