@@ -6,7 +6,7 @@
 
 ## Function Signature
 
-[provide an initial function signature suitable for the need of the challenge]
+[provide an initial function signature suitable for the need of the challenge prefer using todo comments inside the function to help explain the task, prefer es arrow functions]
 
 ## Input
 

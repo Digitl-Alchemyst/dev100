@@ -12,9 +12,10 @@ Week 6: Objects and Object-Oriented Programming
 Week 7: DOM Manipulation and Events
 Week 8: Asynchronous JavaScript (Promises, Async/Await)
 Week 9: Array Operations
+Week 10: Object: enteries(), values(), keys() & destructing
 
-Week 9: Error Handling and Debugging
-Week 10: Advanced Topics and Project Week
+Week #: Error Handling and Debugging
+Week #: Advanced Topics and Project Week
 
 
 
