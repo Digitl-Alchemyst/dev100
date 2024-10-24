@@ -5,21 +5,22 @@
 ### 1. 🌅 Morning Productivity
 
 - 🍳 Healthy Breakfast: [Meal description]
-- [x] Morning Rountine: Clean Office, Rhythm Ready for School, Emails, Make Bed
-- [Activity 1]
-- [Activity 2]
+- [x] Morning Rountine: Clean Office, Kids ready for dentist appointment, Emails, Make Bed
+- Magic matches 1/2
+- RFD review PR from Hein
+- Ready for NEXT Conf
 
 ### 2. ✅ To-Dos & Completed Tasks
 
 - [Checkmate AI](https://checkmate-ai.vercel.app/)
-- [ ] [Update To-Dos]
-- [ ] [Clear Complete Task]
-- Daily To-Do Report: # ToDo | # In Progress | # Done
+- [x] [Update To-Dos]
+- [x] [Clear Complete Task]
+- Daily To-Do Report: 2 ToDo | 1 In Progress | # Done
 
 ### 3. 📚 Learning
 
-- 🦸‍♂️ **Zero to Full Stack Hero**: [Topic or skill learned]
-- 🔗 [Resource](URL)
+- Next.JS Conference
+- 🔗 [Use Open WebUI with Your N8N AI Agents - Voice Chat Included!](https://www.youtube.com/watch?v=E2GIZrsDvuM)
 - 🔗 [Resource](URL)
 - 🔗 [Resource](URL)
 
