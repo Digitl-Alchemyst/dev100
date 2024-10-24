@@ -1,4 +1,4 @@
-# Dev 100 - Day [Number]
+# Dev 100 - Day [64]
 
 ## Today's Accomplishments
 
@@ -16,7 +16,7 @@
 - [Checkmate AI](https://checkmate-ai.vercel.app/)
 - [x] [Update To-Dos]
 - [x] [Clear Complete Task]
-- Daily To-Do Report: 2 ToDo | 1 In Progress | 2 Done
+- Daily To-Do Report: 2 ToDo | 1 In Progress | 4 Done
 
 ### 3. 📚 Learning
 
@@ -29,7 +29,7 @@
 ### 4. 💻 Coding Progress
 
 - 🧠 Warm-up Exercise: In JavaScript, objects are fundamental data structures that allow us to store key-value pairs. Understanding how to work with object properties and their keys is essential for any JavaScript developer. This challenge focuses on using `Object.keys()` to manipulate and analyze object properties.
-- 🦺 Project: EBT - Make automation for blog posting.
+- 🦺 Project: EBT - Make automation for blog posting. Blog and Feature Card restyling
 - 📝 Code Snippet:
 
 ```javascript
@@ -51,18 +51,16 @@
 
 - 🍱 Healthy Lunch: Turkey Sandwich & Chips
 - Work on Cleaning out Garage
-- [Activity 2]
+- Grocery Shopping
 
 ### 7. 🤝 Community Support
 
-- 🔗 [Contribution](URL)
-- 🔗 [Contribution](URL)
-- 🔗 [Contribution](URL)
+- 🔗 Helped boss with his Make.com issues
 
 ### 8. 📊 Progress Tracking
 
-- 🏫 [Day-[Number]](https://www.skool.com/universityofcode/dev-100-day-[Number])
-- 📦 [GitHub Repo](https://github.com/Digitl-Alchemyst/dev100/blob/main/Day-[Number]/day[Number].md)
+- 🏫 [Day-63](https://www.skool.com/universityofcode/dev-100-day-63)
+- 📦 [GitHub Repo](https://github.com/Digitl-Alchemyst/dev100/blob/main/Day-63/day63.md)
 - 📄 [Notion Page](https://liberating-galley-48d.notion.site/Dev100-Coding-Lifestyle-Challenge-a85ec9fba3ce41f3b29d581a1a85d92b?pvs=4)
 
 ## Reflections and Notes
