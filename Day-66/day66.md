@@ -4,34 +4,38 @@
 
 ### 1. 🌅 Morning Productivity
 
-- 🍳 Healthy Breakfast: [Meal description]
+- 🍳 Healthy Breakfast: Turkey Sausage & Egg Wrap
 - [x] Morning Rountine: Clean Office, Rhythm Ready for School, Emails, Make Bed
-- [Activity 1]
-- [Activity 2]
+- Email Automation Workflow
+- MTG Matches 2/1
 
 ### 2. ✅ To-Dos & Completed Tasks
 
 - [Checkmate AI](https://checkmate-ai.vercel.app/)
-- [ ] [Update To-Dos]
-- [ ] [Clear Complete Task]
-- Daily To-Do Report: # ToDo | # In Progress | # Done
+- [x] [Update To-Dos]
+- [x] [Clear Complete Task]
+- Daily To-Do Report: 3 ToDo | 0 In Progress | 1 Done
 
 ### 3. 📚 Learning
 
-- 🦸‍♂️ **Zero to Full Stack Hero**: [Topic or skill learned]
-- 🔗 [Resource](URL)
+- 🦸‍♂️ **Zero to Full Stack Hero**: Object.entries(), Object.values() & Object.keys()
+- 🔗 [Claude 3.5 Sonnet NEW is Really Good - Full Test](https://www.youtube.com/watch?v=ffbcU3RLml4)
 - 🔗 [Resource](URL)
 - 🔗 [Resource](URL)
 
 ### 4. 💻 Coding Progress
 
-- 🧠 Warm-up Exercise: [Brief description]
-- 🏫 **Zero to Full Stack Hero Homework**:
+- 🧠 Warm-up Exercise: his challenge focuses on using `Object.entries()` to manipulate weather data in various ways, including temperature conversion and data formatting. This challenge introduces practical applications of `Object.entries()` in JavaScript, demonstrating how to work with key-value pairs simultaneously. It's particularly relevant for data processing tasks where you need to access both the keys (days) and values (temperatures) of an object while transforming the data.
+
 - 🦺 Project: [Project name and brief description]
+
 - 📝 Code Snippet:
 
 ```javascript
-[Code snippet or summary]
+  const celsiusData = Object.entries(data).map(([day, temp]) => [
+    day,
+    (temp - 32) * (5 / 9),
+  ]);
 ```
 
 ### 5. 🔄 Daily Reset
