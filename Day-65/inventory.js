@@ -10,10 +10,10 @@ const analyzeInventory = (inventory) => {
 
   const lowStock = Object.entries(inventory).reduce((acc, curr) => {
     if (curr[1] < 50) {
-        return { item: curr[0], stock: curr[1] };
+        acc.push({ item: curr[0], stock: curr[1] });
     }
     return acc;
-  }, { item: "", stock: Infinity });
+  }, []);
 
   return {
     total,
