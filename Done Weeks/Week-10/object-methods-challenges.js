@@ -135,8 +135,8 @@ function analyzeEmployeeData(employeesData) {
 // Test the function
 console.log(analyzeEmployeeData(employees));
 
-// Day 7: Real-world Application
-// Challenge: Build a Configuration Manager
+// Day 7: <name this one based on concepts>
+// Challenge: <name this one>
 class ConfigManager {
     constructor(defaultConfig = {}) {
         this.config = {
