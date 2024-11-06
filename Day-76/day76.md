@@ -4,7 +4,7 @@
 
 ### 1. 🌅 Morning Productivity
 
-Day-65 copy- 🍳 Healthy Breakfast: [Meal description]
+Day-65 copy- 🍳 Healthy Breakfast: Cereal then Susage & Eggs
 - [x] Morning Rountine: Clean Office, Rhythm Ready for School, Emails, Wash Bed Sheets
 - Next 15 Template
 - Set up Sanity In Next 15
