@@ -17,52 +17,45 @@ Day-65 copy- 🍳 Healthy Breakfast: [Meal description]
 - [x] [Clear Complete Task]
 - Daily To-Do Report: 
     -  3 ToDo | 2 In Progress |
-    -  ToDo | # In Progress | # Done
+    -  3 ToDo | 2 In Progress | 8 Done
 
 ### 3. 📚 Learning
 
-- 🦸‍♂️ **Zero to Full Stack Hero**: [Topic or skill learned]
 - 🔗 [Learn Regular Expressions In 20 Minutes](https://www.youtube.com/watch?v=rhzKDrUiJVk)
 - 🔗 [ReRegex Password Validationsource](https://www.youtube.com/watch?v=5Tg0Ep-o_HY&t=78s)
 - 🔗 [Regular Expressions (RegEx) Tutorial #15 - Email RegEx Pattern](https://www.youtube.com/watch?v=QxjAOSUQjP0&t=487s)
-- 🔗 [GraphQL Crash Course](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gUxtblNUahcsg0WLxmrK_y) again
-- 🔗 [Resource](URL)
-- 🔗 [Resource](URL)
+- 🔗 [GraphQL Crash Course](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gUxtblNUahcsg0WLxmrK_y) again (interview prep)
+
 
 ### 4. 💻 Coding Progress
 
-- 🧠 Warm-up Exercise: [Brief description]
-- 🏫 **Zero to Full Stack Hero Homework**:
-- 🦺 Project: [Project name and brief description]
+- 🧠 Warm-up Exercise: 5 coding challenges to catch up on the ones i missed from my busy week last week and this week
+- 🦺 Project: EBT Major Refactor. 
 - 📝 Code Snippet:
 
 ```javascript
-[Code snippet or summary]
+  const emailRegex = /^[\w-\.]+@([\w-]+\.)+[\w-]{2,4}$/;
+  const phoneRegex = /\+?(\d{1,3}[- ]?)?\(?\d{3}\)?[- ]?\d{3}[- ]?\d{4}/;
+  const badWordsRegex = /\b(bad|hate|angry)\b/gi;
 ```
 
 ### 5. 🔄 Daily Reset
 
-- 🏋️‍♂️ [Physical Activity]
-- 🧘 [Relax and Reset Activity]
+- 🏋️‍♂️ 2 mile walk
+- 🧘 Smoke & Magic
 
 ### 6. 🌤️ Afternoon Productivity
 
-- 🍱 Healthy Lunch: [Meal description]
-- [Activity 1]
-- [Activity 2]
+- 🍱 Healthy Lunch: Crawfish Empanada, chicken Eggroll
+- Prep for coaching call.
 
 ### 7. 🤝 Community Support
 
-- 🔗 [Contribution](URL)
-- 🔗 [Contribution](URL)
-- 🔗 [Contribution](URL)
+- admin stuff for multiple communities today
 
 ### 8. 📊 Progress Tracking
 
-- 🏫 [Day-[Number]](https://www.skool.com/universityofcode/dev-100-day-[Number])
-- 📦 [GitHub Repo](https://github.com/Digitl-Alchemyst/dev100/blob/main/Day-[Number]/day[Number].md)
+- 🏫 [Day-77](https://www.skool.com/universityofcode/dev-100-day-77)
+- 📦 [GitHub Repo](https://github.com/Digitl-Alchemyst/dev100/blob/main/Day-77/day77.md)
 - 📄 [Notion Page](https://liberating-galley-48d.notion.site/Dev100-Coding-Lifestyle-Challenge-a85ec9fba3ce41f3b29d581a1a85d92b?pvs=4)
 
-## Reflections and Notes
-
-[Add any additional thoughts, challenges, or achievements from the day]
