@@ -15,24 +15,18 @@ Day-65 copy- 🍳 Healthy Breakfast: [Meal description]
 - [x] [Update To-Dos]
 - [x] [Clear Complete Task]
 - Daily To-Do Report: 
-    -   ToDo |  In Progress |
-    -   ToDo |  In Progress | 6 Done
+    -   3 ToDo |  5 In Progress |
+    -   2 ToDo |  2 In Progress | 9 Done
 
 ### 3. 📚 Learning
 
-
-- 🔗 [Resource](URL)
-- 🔗 [Resource](URL)
-- 🔗 [Resource](URL)
+- Focused on work today, music and coding.
 
 ### 4. 💻 Coding Progress
-
-
 
 - 🦺 Project: EBT Major calculator refactors
 
 ### 5. 🔄 Daily Reset
-
 
 - 🧘 Shower
 
