@@ -14,7 +14,9 @@ Day-65 copy- 🍳 Healthy Breakfast: [Meal description]
 - [Checkmate AI](https://checkmate-ai.vercel.app/)
 - [ ] [Update To-Dos]
 - [ ] [Clear Complete Task]
-- Daily To-Do Report: # ToDo | # In Progress | # Done
+- Daily To-Do Report: 
+    -   ToDo |  In Progress |
+    -   ToDo |  In Progress | 6 Done
 
 ### 3. 📚 Learning
 
