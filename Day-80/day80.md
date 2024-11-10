@@ -4,7 +4,7 @@
 
 ### 1. 🌅 Morning Productivity
 
-Day-65 copy- 🍳 Healthy Breakfast: [Meal description]
+Day-65 copy- 🍳 Healthy Breakfast: Turkey Sausage Egg & Cheese Sandwich
 - [x] Morning Rountine: Clean Office, Rhythm Ready for School, Emails, Make Bed
 - MTG 2-2
 - Straight into EBT project
@@ -32,7 +32,7 @@ Day-65 copy- 🍳 Healthy Breakfast: [Meal description]
 
 ### 6. 🌤️ Afternoon Productivity
 
-- 🍱 Healthy Lunch: [Meal description]
+- 🍱 Healthy Lunch: Burnt my lunch in the oven, had a small peanut butter sandwich to replace. 
 - Yard work and cleaning of yard trash for fire pit
 - big work day, huge push to get enough done so i dont fall behind taking off for Pheonix birthday
 
