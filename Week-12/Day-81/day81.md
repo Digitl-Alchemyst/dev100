@@ -34,6 +34,7 @@ Day-65 copy- 🍳 Healthy Breakfast: [Meal description]
 ### 6. 🌤️ Afternoon Productivity
 
 - 🍱 Healthy Lunch: Chicken Sandwich & Fries
+- First team meet for the oTToDev project
 - Pheonix's Birthday Party at Happyland, Giant play place that the boys call the "Dinosaur Park"
 
 ### 7. 🤝 Community Support

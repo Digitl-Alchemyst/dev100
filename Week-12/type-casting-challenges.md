@@ -74,39 +74,6 @@ Explores truthy/falsy values
 Implements different boolean conversion methods
 Covers edge cases and custom boolean logic
 
-
-Day 4: Type Coercion
-
-Demonstrates implicit type conversion
-Covers arithmetic operations
-Explores comparison operators
-
-
-Day 5: Array and Object Conversions
-
-Converts between complex data types
-Handles array-like objects
-Implements JSON conversions
-
-
-Day 6: Date and Number Formatting
-
-Works with date conversions
-Implements number formatting
-Handles locale-specific conversions
-
-
-Day 7: Real-world Application
-
-Builds a comprehensive data validator
-Implements type checking and conversion
-Handles complex nested structures
-
-
-
-
-
-
 // Day 3: Boolean Conversions and Truthy/Falsy Values
 // Challenge: Explore boolean conversions and truthy/falsy concepts
 function booleanConversions(value) {
@@ -134,6 +101,12 @@ testValues.forEach(value => {
     console.log(`Testing ${String(value)}: `, booleanConversions(value));
 });
 
+Day 4: Type Coercion
+
+Demonstrates implicit type conversion
+Covers arithmetic operations
+Explores comparison operators
+
 // Day 4: Type Coercion in Operations
 // Challenge: Understanding implicit type coercion
 function exploreCoercion() {
@@ -153,6 +126,12 @@ function exploreCoercion() {
 
 // Test cases
 console.log(exploreCoercion());
+
+Day 5: Array and Object Conversions
+
+Converts between complex data types
+Handles array-like objects
+Implements JSON conversions
 
 // Day 5: Array and Object Type Conversions
 // Challenge: Convert between arrays, objects, and primitive types
@@ -178,6 +157,34 @@ function arrayObjectConversions() {
 
 // Test cases
 console.log(arrayObjectConversions());
+
+
+
+
+
+Day 6: Date and Number Formatting
+
+Works with date conversions
+Implements number formatting
+Handles locale-specific conversions
+
+
+Day 7: Real-world Application
+
+Builds a comprehensive data validator
+Implements type checking and conversion
+Handles complex nested structures
+
+
+
+
+
+
+
+
+
+
+
 
 // Day 6: Date and Number Format Conversions
 // Challenge: Work with date and number format conversions
