@@ -4,7 +4,7 @@
 
 ### 1. 🌅 Morning Productivity
 
-Day-65 copy- 🍳 Healthy Breakfast: [Meal description]
+🍳 Healthy Breakfast: [Meal description]
 - [x] Morning Rountine: Clean Office, Rhythm Ready for School, Emails, Make Bed
 - [Activity 1]
 - [Activity 2]
