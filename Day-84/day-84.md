@@ -1,4 +1,4 @@
-# Dev 100 - Day [Number]
+# Dev 100 - Day [84]
 
 ## Today's Accomplishments
 
@@ -17,11 +17,10 @@
 - [x] [Clear Complete Task]
 - Daily To-Do Report: 
     -  5 ToDo | 1 In Progress |
-    -   ToDo |  In Progress | 4 Done
+    -   ToDo |  In Progress | 9 Done
 
 ### 3. 📚 Learning
 
-- 🦸‍♂️ **Zero to Full Stack Hero**: 
 - I think both of these articles were shared by Scott Martin I know one for sure was. Both were great reads, really liked the front end debugging article coupld of things in there that I have not thought about.
 - 🔗 [How Senior Software Engineers Document Their Project](https://dev.to/koladev/how-senior-software-engineers-document-their-project-1nf4)
 - 🔗 [Front End Debugging Part 1: Not just Console Log](https://dev.to/codenameone/front-end-debugging-part-1-not-just-console-log-14f0)
@@ -33,39 +32,61 @@
 
 ### 4. 💻 Coding Progress
 
-- 🧠 Warm-up Exercise: [Brief description]
-- 🏫 **Zero to Full Stack Hero Homework**:
+- 🧠 Warm-up Exercise: Create a function that formats transaction data for an international e-commerce platform. The function should handle date and number formatting across different locales, & Create a robust DataValidator class that validates and transforms form data according to a predefined schema. 
 - 🦺 Project: [Project name and brief description]
 - 📝 Code Snippet:
 
 ```javascript
-[Code snippet or summary]
+    const formattedDate = date.toLocaleDateString(locale, {
+      year: "numeric",
+      month: "2-digit",
+      day: "2-digit",
+      hour: "2-digit",
+      minute: "2-digit",
+    })
+
+    const formattedAmount = transaction.amount.toLocaleString(locale, {
+      style: "currency",
+      currency: "USD",
+    });
+    const formattedQuantity = transaction.quantity.toLocaleString(locale, {
+      useGrouping: true,
+    });
+    const formattedUnitPrice = transaction.unitPrice.toLocaleString(locale, {
+      style: "currency",
+      currency: "USD",
+    });
+    const formattedTaxRate = transaction.taxRate.toLocaleString(locale, {
+      style: "percent",
+      minimumFractionDigits: 2,
+      maximumFractionDigits: 2,
+    });
 ```
 
 ### 5. 🔄 Daily Reset
 
-- 🏋️‍♂️ [Physical Activity]
-- 🧘 [Relax and Reset Activity]
+- 🏋️‍♂️ 5 mile walk while taking a meeting on headset 
+- 🧘 Shower
 
 ### 6. 🌤️ Afternoon Productivity
 
 - 🍱 Healthy Lunch: Snacks
 - Make up coding challenge from yesterday
-- [Activity 1]
-- [Activity 2]
+- More cleaning on the front garden
+- More work on automation workflow
 
 ### 7. 🤝 Community Support
 
-- 🔗 [Contribution](URL)
-- 🔗 [Contribution](URL)
-- 🔗 [Contribution](URL)
+- 🔗 [Facing OAuthAccountNotLinked Error for the New Users](https://www.skool.com/universityofcode/facing-oauthaccountnotlinked-error-for-the-new-users)
+- 🔗 [User not able to redirect to / after login/signup](https://www.skool.com/universityofcode/user-not-able-to-redirect-to-after-loginsignup)
+- Support Aydin 1st live stream on youtube for coding channel
 
 ### 8. 📊 Progress Tracking
 
-- 🏫 [Day-[Number]](https://www.skool.com/universityofcode/dev-100-day-[Number])
-- 📦 [GitHub Repo](https://github.com/Digitl-Alchemyst/dev100/blob/main/Day-[Number]/day[Number].md)
+- 🏫 [Day-83](https://www.skool.com/universityofcode/dev-100-day-83)
+- 📦 [GitHub Repo](https://github.com/Digitl-Alchemyst/dev100/blob/main/Day-83/day83.md)
 - 📄 [Notion Page](https://liberating-galley-48d.notion.site/Dev100-Coding-Lifestyle-Challenge-a85ec9fba3ce41f3b29d581a1a85d92b?pvs=4)
 
 ## Reflections and Notes
 
-[Add any additional thoughts, challenges, or achievements from the day]
+Huge day got so much done. Feeling like I can do anything after today. 
