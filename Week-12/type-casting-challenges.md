@@ -168,24 +168,6 @@ Works with date conversions
 Implements number formatting
 Handles locale-specific conversions
 
-
-Day 7: Real-world Application
-
-Builds a comprehensive data validator
-Implements type checking and conversion
-Handles complex nested structures
-
-
-
-
-
-
-
-
-
-
-
-
 // Day 6: Date and Number Format Conversions
 // Challenge: Work with date and number format conversions
 function dateNumberFormatting() {
@@ -211,7 +193,15 @@ function dateNumberFormatting() {
 // Test cases
 console.log(dateNumberFormatting());
 
-// Day 7: Real-world Application
+
+
+Day 7: 
+
+Builds a comprehensive data validator
+Implements type checking and conversion
+Handles complex nested structures
+
+// Day 7: 
 // Challenge: Build a Data Validator and Transformer
 class DataValidator {
     constructor(schema) {

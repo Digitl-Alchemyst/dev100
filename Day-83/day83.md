@@ -21,8 +21,6 @@
 ### 3. 📚 Learning
 
 - 🔗 [🔴 Let's build a Full Stack E-Commerce App with NEXT.JS 15 (Sanity, Stripe, Clerk, Tailwind, TS)](https://www.youtube.com/watch?v=o-fgWea75O4&t=4553s)
-- 🔗 [Resource](URL)
-- 🔗 [Resource](URL)
 
 ### 4. 💻 Coding Progress
 
