@@ -13,6 +13,9 @@ Week 9: Array Operations
 Week 10: Object: enteries(), values(), keys() & destructing
 Week 11: Regular Expression Methods: test(), match(), replace()
 Week 12: Type Casting - Conversion, Coercion, Implicit, Explicit
+Week 13: 
+Week 14: 
+Day 99/100: Final Project: Build a Web Application Library System 
 
 Week #: Error Handling and Debugging
 Week #: Advanced Topics and Project Week
