@@ -23,7 +23,35 @@ Week #: Advanced Topics and Project Week
 
 
 
+Option Set 1:
 
+Week 13: Memory Management & Performance Optimization
+Week 14: Security & Authentication Fundamentals
+
+Option Set 2:
+
+Week 13: Web APIs & Browser Storage
+Week 14: Design Patterns & Architecture
+
+Option Set 3:
+
+Week 13: Testing & Test-Driven Development
+Week 14: Build Tools & Module Bundlers
+
+Option Set 4:
+
+Week 13: Functional Programming Concepts
+Week 14: State Management & Data Flow
+
+Option Set 5:
+
+Week 13: Network Requests & REST APIs
+Week 14: GraphQL & Real-time Data
+
+Option Set 6:
+
+Week 13: JavaScript Modules & Package Management
+Week 14: TypeScript Fundamentals
 
 
 
