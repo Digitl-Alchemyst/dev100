@@ -38,6 +38,7 @@
 
 - 🍱 Healthy Lunch: Turkey Sandwich with Chips
 - n8n workflow templates
+- Redo Notion Template for Dev-100
 
 ### 7. 🤝 Community Support
 
