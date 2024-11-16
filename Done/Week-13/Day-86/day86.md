@@ -22,9 +22,17 @@
 
 ### 3. 📚 Learning
 
-- 🔗 [Resource](URL)
-- 🔗 [Resource](URL)
-- 🔗 [Resource](URL)
+- 🔗 [How to use Perplexity.ai in n8n to Research Anything](https://www.youtube.com/watch?v=HFRI7AiBdgg)
+- 🔗 [How to use Perplexity.ai inside n8n (NO CODE!!)](https://www.youtube.com/watch?v=JnaEbfy1aqo)
+- 🔗 [I Built an AI Agent That Does EVERYTHING for You! (100% Automated)](https://www.youtube.com/watch?v=PwwvZQORy1I)
+- 🔗 [Top 6 Gmail Filters for Productivity!](https://www.youtube.com/watch?v=_vhfAn0wb10)
+- 🔗 [How to use Gmail Labels - Tutorial for Beginners](https://www.youtube.com/watch?v=3P6GKMpGSFg)
+- 🔗 [ResourQwen Just Casually Started the Local AI Revolutionce](https://www.youtube.com/watch?v=y6Wh4SpRoao)
+- 🔗 [5 AI Agents You Can Build Today (100% no-code)](https://www.youtube.com/watch?v=fcTtO57zH0s)
+- 🔗 [Get Organised In Notion Fast! My Quick-Start Guide 2024](https://www.youtube.com/watch?v=l0P6SPZOI-U)
+- 🔗 [How to Build Your Very First Workflow in n8n | n8n Tutorial](https://www.youtube.com/watch?v=380Z8cZyFc8)
+- 🔗 [How to automate Notion databases using n8n](https://www.youtube.com/watch?v=up2Wi3Y9a-4)
+- 🔗 [Notion Just Got 10x Better! (6 NEW Updates Explained)](https://www.youtube.com/watch?v=BkjoHt2-EGs)
 
 ### 4. 💻 Coding Progress
 
@@ -56,12 +64,13 @@ emit = (eventName, ...args) => {
 
 - Admin stuff for school Community.
 - Set up my accounts for the oTToDev project / oTToMator community
+- Little work on issues for Arhan
 
 ### 8. 📊 Progress Tracking
 
 - 🏫 [Day-85](https://www.skool.com/universityofcode/dev-100-day-85)
-- 📦 [GitHub Repo](https://github.com/Digitl-Alchemyst/dev100/blob/main/Day-85/day85.md)
-- 📄 [Notion Page](https://liberating-galley-48d.notion.site/Dev100-Coding-Lifestyle-Challenge-a85ec9fba3ce41f3b29d581a1a85d92b?pvs=4)
+- 📦 [GitHub Repo](https://github.com/Digitl-Alchemyst/dev100/blob/main/Done/Week-13/Day-85/day85.md)
+- 📄 [Notion Page](https://www.notion.so/Dev100-Challenge-13ecf2b3a539805eb584e1febd599205?pvs=4)
 
 ## Reflections and Notes
 
