@@ -13,8 +13,8 @@ Week 9: Array Operations
 Week 10: Object: enteries(), values(), keys() & destructing
 Week 11: Regular Expression Methods: test(), match(), replace()
 Week 12: Type Casting - Conversion, Coercion, Implicit, Explicit
-Week 13: 
-Week 14: 
+Week 13: State Management & Data Flow
+Week 14: TypeScript Fundamentals
 Day 99/100: Final Project: Build a Web Application Library System 
 
 Week #: Error Handling and Debugging
@@ -23,35 +23,7 @@ Week #: Advanced Topics and Project Week
 
 
 
-Option Set 1:
 
-Week 13: Memory Management & Performance Optimization
-Week 14: Security & Authentication Fundamentals
-
-Option Set 2:
-
-Week 13: Web APIs & Browser Storage
-Week 14: Design Patterns & Architecture
-
-Option Set 3:
-
-Week 13: Testing & Test-Driven Development
-Week 14: Build Tools & Module Bundlers
-
-Option Set 4:
-
-Week 13: Functional Programming Concepts
-Week 14: State Management & Data Flow
-
-Option Set 5:
-
-Week 13: Network Requests & REST APIs
-Week 14: GraphQL & Real-time Data
-
-Option Set 6:
-
-Week 13: JavaScript Modules & Package Management
-Week 14: TypeScript Fundamentals
 
 
 

@@ -11,12 +11,10 @@
 
 ### 2. ✅ To-Dos & Completed Tasks
 
-- [Checkmate AI](https://checkmate-ai.vercel.app/)
+
 - [ ] [Update To-Dos]
 - [ ] [Clear Complete Task]
-- Daily To-Do Report: 
-    -   ToDo |  In Progress |
-    -   ToDo |  In Progress | 6 Done
+- Daily To-Do Report: # Done
 
 ### 3. 📚 Learning
 
@@ -56,8 +54,8 @@
 ### 8. 📊 Progress Tracking
 
 - 🏫 [Day-[Number]](https://www.skool.com/universityofcode/dev-100-day-[Number])
-- 📦 [GitHub Repo](https://github.com/Digitl-Alchemyst/dev100/blob/main/Day-[Number]/day[Number].md)
-- 📄 [Notion Page](https://liberating-galley-48d.notion.site/Dev100-Coding-Lifestyle-Challenge-a85ec9fba3ce41f3b29d581a1a85d92b?pvs=4)
+- 📦 [GitHub Repo](https://github.com/Digitl-Alchemyst/dev100/blob/main/Done/Week-[Week]/Day-[Number]/day[Number].md)
+- 📄 [Notion Page](https://www.notion.so/Dev100-Challenge-13ecf2b3a539805eb584e1febd599205)
 
 ## Reflections and Notes
 
