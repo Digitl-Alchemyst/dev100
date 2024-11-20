@@ -5,7 +5,7 @@
 ### 1. 🌅 Morning Productivity
 
 🍳 Healthy Breakfast: [Meal description]
-- [x] Morning Rountine: Clean Office, Rhythm Ready for School, Emails, Make Bed
+- [x] Morning Routine: Clean Office, Rhythm Ready for School, Emails, Make Bed
 - [Activity 1]
 - [Activity 2]
 

@@ -4,7 +4,7 @@
 
 ### 1. 🌅 Morning Productivity
 
-🍳 Healthy Breakfast: [Meal description]
+🍳 Healthy Breakfast: Peanut Butter
 - [x] Morning Rountine: Clean Office, Rhythm Ready for School, Emails, Make Bed
 - Woke up late, somehow the alarm didnt go off, still got rhythm on the bus. bus was late too, that helped but we were out on time anyway. suprised it worked out
 - Deep Clean Day
@@ -23,15 +23,16 @@
 - 🔗 [Manage large-scale updates with Content Releases](https://www.youtube.com/watch?v=ArAPmUG-oag)
 - 🔗 [No more copy-paste with Sanity Create w/ Automatic Content Mapping](https://www.youtube.com/watch?v=mANqmSO_vDc)
 - 🔗 [Visual Editing and structured content — you can have it all](https://www.youtube.com/watch?v=YxUulW_mjs0)
-- 🔗 [Resource](URL)
+- ABout 20 mins of the Sanity Build video from Sonny the part about Sanitys Live updates
 
 ### 4. 💻 Coding Progress
 
 - 🧠 Warm-up Exercise: Create a sophisticated state management store that supports middleware, state persistence, and time-travel debugging capabilities. This implementation should provide centralized state management similar to Redux or Vuex, with advanced features for debugging and state manipulation. WOW this one was hard. I am going to be doing an entire series on this sort of thing for a better understanding. phew glad this week of challenges is done. 
-- 🦺 Project: EBT - Session managment.
+- 🦺 Project: EBT - Session managment. Social Media Post automation
 - 📝 Code Snippet:
 
 Did not undertstand at all but made it work -.- need mroe study time with this type of coding.
+
 ```javascript
 const baseDispatch = (action) => {
       this._state = this._reducer(this._state, action);
@@ -49,20 +50,21 @@ const baseDispatch = (action) => {
 
 ### 5. 🔄 Daily Reset
 
-- 🏋️‍♂️ [Physical Activity]
-- 🧘 [Relax and Reset Activity]
+- 🏋️‍♂️ 2x[50] pushups 
+- 🧘 420 time
 
 ### 6. 🌤️ Afternoon Productivity
 
-- 🍱 Healthy Lunch: [Meal description]
-- [Activity 1]
-- [Activity 2]
+- 🍱 Healthy Lunch: Turkey Sandwich
+- Hang out with SOn + Rewards for great day at School
+- Leonardo AI production ready AI image generation Webinar
+- Work Meeting "Stand Up"
 
 ### 7. 🤝 Community Support
 
 - 🔗 [Sanity Winter Release 2024](https://www.skool.com/universityofcode/sanity-winter-release-2024)
 - 🔗 [Facing OAuthAccountNotLinked Error for the New Users](https://www.skool.com/universityofcode/facing-oauthaccountnotlinked-error-for-the-new-users?p=f9da13c2) I am thinking he recently upgraded from 14 to 15 and something went wrong.
-- 🔗 [Contribution](URL)
+
 
 ### 8. 📊 Progress Tracking
 
@@ -72,4 +74,4 @@ const baseDispatch = (action) => {
 
 ## Reflections and Notes
 
-[Add any additional thoughts, challenges, or achievements from the day]
+Coding challenge was insanely difficult but I know what my next area of focus is. I will be doing a series on this type of coding. After that day was a breeze and I was able to get a lot done.
