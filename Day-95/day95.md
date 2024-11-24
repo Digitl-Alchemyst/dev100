@@ -1,4 +1,4 @@
-# Dev 100 - Day [Number]
+# Dev 100 - Day [95]
 
 ## Today's Accomplishments
 
@@ -21,14 +21,14 @@
 ### 3. 📚 Learning
 
 - 🦸‍♂️ **Zero to Full Stack Hero**: JavaScript Essentials Mentor Call
-- 🔗 [Resource](URL)
-- 🔗 [Resource](URL)
+- 🔗 [How I Sign Clients For My AI Automation Agency (Revealing My Secret Method)](https://www.youtube.com/watch?v=XomjbItJ-L0)
+- 🔗 [🔴 Let’s build an AI NOTION Clone with NEXT.JS 14! (Realtime Collab, Cloudflare, Clerk, Firebase)](https://www.youtube.com/watch?v=shX6N1FOx-0&t=1187s&pp=ygUTbnRpb24gY2xvbmUgbmV4dCBqcw%3D%3D)
 - 🔗 [Resource](URL)
 
 ### 4. 💻 Coding Progress
 
 - 🧠 Warm-up Exercise: Convert a JavaScript role-playing game character system to TypeScript, implementing proper class hierarchy, access modifiers, and abstract classes. Create a system that manages different types of game characters (warriors, mages, rogues) with specific abilities and attributes.
-- 🦺 Project: [Project name and brief description]
+- 🦺 Project: Card Street: card databases, AI-Alchemy: add inital blogs
 - 📝 Code Snippet:
 
 ```javascript
