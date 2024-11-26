@@ -49,14 +49,14 @@
 
 ### 5. 🔄 Daily Reset
 
-- 🏋️‍♂️ [Physical Activity]
+- 🏋️‍♂️ Rest Day
 - 🧘 Power nap with some learning videos in the background, rewatched when I woke up
 
 ### 6. 🌤️ Afternoon Productivity
 
 - 🍱 Healthy Lunch: [Meal description]
 - Work on Cleaning out garage
-- [Activity 2]
+- Clean Card/Comic Collection Area
 
 ### 7. 🤝 Community Support
 
@@ -72,4 +72,4 @@
 
 ## Reflections and Notes
 
-[Add any additional thoughts, challenges, or achievements from the day]
+PC Parts need to hurry up
