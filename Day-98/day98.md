@@ -5,33 +5,45 @@
 ### 1. 🌅 Morning Productivity
 
 🍳 Healthy Breakfast: [Meal description]
-- [x] Morning Routine: Clean Office, Rhythm Ready for School, Emails, Make Bed
-- [Activity 1]
-- [Activity 2]
+- [x] Morning Routine: Clean Office Emails, Make Bed
+- MTG Matches
+- Therapy
+- Shopping / Errands
+
 
 ### 2. ✅ To-Dos & Completed Tasks
 
-
-- [ ] [Update To-Dos]
-- [ ] [Clear Complete Task]
+- [x] [Update To-Dos]
+- [x] [Clear Complete Task]
 - Daily To-Do Report: # Done
 
 ### 3. 📚 Learning
 
 - 🦸‍♂️ **Zero to Full Stack Hero**: [Topic or skill learned]
-- 🔗 [Resource](URL)
-- 🔗 [Resource](URL)
-- 🔗 [Resource](URL)
+- 🔗 [12 Logging BEST Practices in 12 minutes](https://www.youtube.com/watch?v=I2mWnh66Bkg)
+- 🔗 [I built an Ultrawide DS ... a DIY Steam Deck thingy.](https://www.youtube.com/watch?v=PJccc3qpPh0)
+- 🔗 [This homelab setup is my favorite one yet.](https://www.youtube.com/watch?v=2yplBzPCghA)
 
 ### 4. 💻 Coding Progress
 
-- 🧠 Warm-up Exercise: [Brief description]
+- 🧠 Warm-up Exercise: Create a type-safe, dynamic form validation system that uses advanced TypeScript features to handle complex form structures, validation rules, and error messages. The system should leverage mapped types, conditional types, and utility types to provide a flexible yet strongly-typed form handling solution.
 - 🏫 **Zero to Full Stack Hero Homework**:
 - 🦺 Project: [Project name and brief description]
 - 📝 Code Snippet:
 
 ```javascript
-[Code snippet or summary]
+        switch (config.type) {
+            
+            case "string":
+                        this.validateString(field, value as string, config, errors)
+                break
+            case "number":
+                this.validateNumber(field, value as string, config, errors)
+                break
+            case "email":
+                this.validateEmail(field, value as string, config, errors)
+                break
+        }
 ```
 
 ### 5. 🔄 Daily Reset
