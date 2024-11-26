@@ -17,9 +17,20 @@ type FormSchema = {
   [K: string]: FieldConfig<any>;
 };
 
-// Infer form data type from schema
+// Improved type inference
+type InferFieldType<T extends FieldConfig<any>> = T['type'] extends 'string' | 'email' | 'password'
+  ? string
+  : T['type'] extends 'number'
+  ? number
+  : T['type'] extends 'boolean'
+  ? boolean
+  : T['type'] extends 'date'
+  ? Date
+  : never;
+
+// Updated form data type inference
 type InferFormData<T extends FormSchema> = {
-  [K in keyof T]: T[K] extends FieldConfig<infer U> ? U : never;
+  [K in keyof T]: InferFieldType<T[K]>;
 };
 
 // Validation result type
@@ -30,7 +41,6 @@ type ValidationResult<T> = {
   };
 };
 
-// Form validator interface
 interface FormValidator<T extends FormSchema> {
   validate(data: Partial<InferFormData<T>>): ValidationResult<T>;
   validateField<K extends keyof T>(
@@ -39,42 +49,140 @@ interface FormValidator<T extends FormSchema> {
   ): string[];
 }
 
-// TODO: Implement the form validator class
+class FormValidator<T extends FormSchema> implements FormValidator<T> {
+    constructor(private schema: T) {}
+
+    validate(data: Partial<InferFormData<T>>): ValidationResult<T> {
+        const errors: Record<string, string[]> = {};
+        let isValid = true;
+
+        for (const [field, config] of Object.entries(this.schema)) {
+            if (field in data) {
+                const value = data[field as keyof T] as InferFormData<T>[keyof T];
+                const fieldErrors = this.validateField(field as keyof T, value);
+
+                if (fieldErrors.length > 0) {
+                    errors[field] = fieldErrors;
+                    isValid = false;
+                }
+            }
+        }
+
+        return { isValid, errors };
+    }
+
+    validateField<K extends keyof T>(
+        field: K,
+        value: InferFormData<T>[K]
+    ): string[] {
+        const config = this.schema[field];
+        const errors: string[] = [];
+
+        if (config.required && (value === undefined || value === '')) {
+            errors.push(`${String(field)} is required`);
+            return errors;
+        }
+
+        switch (config.type) {
+            case 'string':
+                this.validateString(field, value as string, config as FieldConfig<string>, errors);
+                break;
+            case 'number':
+                this.validateNumber(field, value as number, config as FieldConfig<number>, errors);
+                break;
+            case 'email':
+                this.validateEmail(field, value as string, config as FieldConfig<string>, errors);
+                break;
+        }
+
+        if (config.custom && !config.custom(value)) {
+            errors.push(`${String(field)} failed custom validation check`);
+        }
+
+        return errors;
+    }
 
 
+    private validateString(
+        field: keyof T,
+        value: string,
+        config: FieldConfig<string>,
+        errors: string[]
+      ): void {
+        if (config.minLength && value.length < config.minLength) {
+            errors.push(`${String(field)} must be at least ${config.minLength} characters`)
+        }
+        if (config.maxLength && value.length > config.maxLength) {
+            errors.push(`${String(field)} must be no mroe than ${config.maxLength} characters`)
+        }
+        if (config.pattern && !config.pattern.test(value)) {
+            errors.push(`${String(field)} must match pattern ${config.pattern}`);
+        }
+      }
 
+    private validateNumber(
+        field: keyof T,
+        value: number,
+        config: FieldConfig<number>,
+        errors: string[]
+      ): void {
+        if (config.min !== undefined && value < config.min) {
+            errors.push(`${String(field)} must be at least ${config.min}`);
+          }
+      
+          if (config.max !== undefined && value > config.max) {
+            errors.push(`${String(field)} must be at most ${config.max}`);
+          }
+      }
+
+    private validateEmail(
+        field: keyof T,
+        value: string,
+        config: FieldConfig<string>,
+        errors: string[]
+      ): void {
+        const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/
+        if (!emailRegex.test(value)) {
+
+        }
+      }
+}
 
 
 const schema = {
-    name: {
-      type: 'string',
-      required: true,
-      minLength: 2
-    },
-    age: {
-      type: 'number',
-      min: 0,
-      max: 150
-    },
-    email: {
-      type: 'email',
-      required: true
-    }
-  } as const;
-  
-  const validator = new FormValidator(schema);
-  
-  // Test complete form
-  console.log(validator.validate({
-    name: "John",
-    age: 30,
-    email: "john@example.com"
-  }));
-  
-  // Test partial form
-  console.log(validator.validate({
-    name: "J" // Should fail minLength
-  }));
-  
-  // Test single field
-  console.log(validator.validateField('email', "not-an-email"));
+  name: {
+    type: 'string' as const,
+    required: true,
+    minLength: 2
+  },
+  age: {
+    type: 'number' as const,
+    min: 0,
+    max: 150
+  },
+  email: {
+    type: 'email' as const,
+    required: true
+  }
+} satisfies FormSchema;
+
+const validator = new FormValidator<typeof schema>(schema);
+
+// Test complete form
+const completeData = {
+  name: "John",
+  age: 30,
+  email: "john@example.com"
+};
+
+console.log(validator.validate(completeData));
+
+// Test partial form
+const partialData = {
+  name: "J"
+};
+
+console.log(validator.validate(partialData));
+
+// Test single field
+console.log(validator.validateField('email', "not-an-email"));
