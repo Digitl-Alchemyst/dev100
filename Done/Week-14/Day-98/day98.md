@@ -1,10 +1,10 @@
-# Dev 100 - Day [Number]
+# Dev 100 - Day [98]
 
 ## Today's Accomplishments
 
 ### 1. 🌅 Morning Productivity
 
-🍳 Healthy Breakfast: [Meal description]
+🍳 Healthy Breakfast: Peanut Butter Toast
 - [x] Morning Routine: Clean Office Emails, Make Bed
 - MTG Matches
 - Therapy
@@ -15,7 +15,7 @@
 
 - [x] [Update To-Dos]
 - [x] [Clear Complete Task]
-- Daily To-Do Report: # Done
+- Daily To-Do Report: 6 Done
 
 ### 3. 📚 Learning
 
@@ -28,7 +28,7 @@
 
 - 🧠 Warm-up Exercise: Create a type-safe, dynamic form validation system that uses advanced TypeScript features to handle complex form structures, validation rules, and error messages. The system should leverage mapped types, conditional types, and utility types to provide a flexible yet strongly-typed form handling solution.
 - 🏫 **Zero to Full Stack Hero Homework**:
-- 🦺 Project: [Project name and brief description]
+- 🦺 Project: PC Build
 - 📝 Code Snippet:
 
 ```javascript
@@ -48,27 +48,27 @@
 
 ### 5. 🔄 Daily Reset
 
-- 🏋️‍♂️ [Physical Activity]
-- 🧘 [Relax and Reset Activity]
+- 🏋️‍♂️ Walk durring Therapy
+- 🧘 420 before PC build 
 
 ### 6. 🌤️ Afternoon Productivity
 
-- 🍱 Healthy Lunch: [Meal description]
-- [Activity 1]
-- [Activity 2]
+- 🍱 Healthy Lunch: Pizza
+- Cooler is delayed on backorder. Picked one up local for 50$ cheaper canceled back ordered cooler.
+- PC Build
+- Dusted old PC & Salvage Parts
+- Not 100% on this PC case might use my old one
 
 ### 7. 🤝 Community Support
 
-- 🔗 [Contribution](URL)
-- 🔗 [Contribution](URL)
-- 🔗 [Contribution](URL)
+- PC build Video (WIP)
 
 ### 8. 📊 Progress Tracking
 
-- 🏫 [Day-[Number]](https://www.skool.com/universityofcode/dev-100-day-[Number])
-- 📦 [GitHub Repo](https://github.com/Digitl-Alchemyst/dev100/blob/main/Done/Week-[Week]/Day-[Number]/day[Number].md)
+- 🏫 [Day-97](https://www.skool.com/universityofcode/dev-100-day-97)
+- 📦 [GitHub Repo](https://github.com/Digitl-Alchemyst/dev100/blob/main/Done/Week-14/Day-97/day97.md)
 - 📄 [Notion Page](https://www.notion.so/Dev100-Challenge-13ecf2b3a539805eb584e1febd599205)
 
 ## Reflections and Notes
 
-[Add any additional thoughts, challenges, or achievements from the day]
+PC Build part one. went pretty smooth but cant decide if I want to use this case, recycle the old one, or buy a new one like the old one. Plan to sleep on it. Need thermal paste anyway. the m.2 drives I got dont fit because my motherboard has heatsyncs already sigh. Oh well I can work with this for the time being. 
